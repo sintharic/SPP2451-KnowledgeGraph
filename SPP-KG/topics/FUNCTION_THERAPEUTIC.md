@@ -1,0 +1,3 @@
+- [[SPP-2451-7]]: Lebende therapeutische Materialien mit langfristiger, sonoresponsiver und mechanoadaptiver Funktion
+- [[SPP-2451-12]]: Smarte Stimuli-responsive opaleszente Bakterienfilme (OPAL-Bac)
+- [[SPP-2451-17]]: ProbioGel als adaptives lebendes Haut- und Wundtherapeutikum

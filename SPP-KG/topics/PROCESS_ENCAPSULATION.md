@@ -1,0 +1,5 @@
+- [[SPP-2451-5]]: Selbstsynthetisierende, selbstorganisierende und auf stimuliresponsive multizelluläre Engineered Living Materials auf der Grundlage enzymatischer Polymerisationen auf Zelloberflächen (PolyCell-ELMs)
+- [[SPP-2451-6]]: Adaptive kapselbasierte Materialien zur Programmierung lebender technischer Systeme
+- [[SPP-2451-7]]: Lebende therapeutische Materialien mit langfristiger, sonoresponsiver und mechanoadaptiver Funktion
+- [[SPP-2451-19]]: Adaptive Biotechnologisch-modifizierte Bakterielle Koazervate
+- [[SPP-2451-22]]: ContainELMs – Materialzentrierte, genetisch programmierte Eindämmung in Engineered Living Materials

@@ -1,0 +1,27 @@
+{
+  "bacteria" : [
+    "metabolism",
+    "growth",
+    "mobility",
+    "compatibility", 
+    "drugproduction"
+  ],
+  "material" : [
+    "hydrogel",
+    "polymer",
+    "scaffold"
+  ],
+  "function" : [
+    "sensing",
+    "response",
+    "therapeutic",
+    "control_adapt",
+    "mechanical",
+    "chemical"
+  ],
+  "process" : [
+    "synthesis",
+    "printing",
+    "encapsulation"
+  ]
+}

@@ -1,0 +1,10 @@
+- [[SPP-2451-5]]: Selbstsynthetisierende, selbstorganisierende und auf stimuliresponsive multizelluläre Engineered Living Materials auf der Grundlage enzymatischer Polymerisationen auf Zelloberflächen (PolyCell-ELMs)
+- [[SPP-2451-6]]: Adaptive kapselbasierte Materialien zur Programmierung lebender technischer Systeme
+- [[SPP-2451-7]]: Lebende therapeutische Materialien mit langfristiger, sonoresponsiver und mechanoadaptiver Funktion
+- [[SPP-2451-12]]: Smarte Stimuli-responsive opaleszente Bakterienfilme (OPAL-Bac)
+- [[SPP-2451-13]]: SporoPrinting – 3D-Matrizen zur Immobilisierung und Steuerung funktionalisierter SporoBeads von B. subtilis als strukturierte Protein-präsentierende ELM-Plattform mit adaptiven Funktionen
+- [[SPP-2451-17]]: ProbioGel als adaptives lebendes Haut- und Wundtherapeutikum
+- [[SPP-2451-20]]: Konstruktion lebender Aktoren aus fädigen Cyanobakterien
+- [[SPP-2451-21]]: Kombination stimuli-responsiver Hydrogele und Scaffold-unterstützter mikrobieller Biofilme für die selbstkontrollierte katalytische Aktivität eines mikrobiellen Blatts
+- [[SPP-2451-23]]: Living Plasmonics: Verteilte Umweltsensorik mit photolumineszenten Sensor-ELM durch enzymatische Kopplung bakterieller Sensorik mit Nanoplasmonik
+- [[SPP-2451-27]]: Adaptive Lebende Samenbeschichtungen

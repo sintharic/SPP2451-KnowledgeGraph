@@ -1,0 +1,19 @@
+{
+    "growth" : ["wachs"],
+    "mobility" : ["mobil"],
+    "drugproduction" : ["produktion", "produz", "wirkstoff"],
+    "compatibility" : ["kompatib", "sicherheit", "schutz", "toxi"],
+    "metabolism" : ["metabol", "stoffwechsel", "nähr", "nahrung"],
+    "hydrogel" : ["hydrogel", "mikrogel"],
+    "polymer" : ["polymer"],
+    "scaffold" : ["netzwerk", "faser", "gerüst"],
+    "printing" : ["print", "extrusion"],
+    "sensing" : ["sensor"],
+    "response" : ["respons", "aktuator"],
+    "mechanical" : ["mechanisch", "mechano"],
+    "chemical" : ["chemi"],
+    "therapeutic" : ["therapeutisch", "medizin", "probiot"],
+    "control_adapt" : ["program", "anpass", "adapt", "schalt", "steuer"],
+    "synthesis" : ["synthes", "herstell", "hergestellt", "polymeris"],
+    "encapsulation" : ["kapsel"]
+}

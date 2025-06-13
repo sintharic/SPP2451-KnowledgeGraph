@@ -1,0 +1,5 @@
+- [[SPP-2451-1]]: Lebende Elektro-Biokatalysatoren für Sensorik und Reinigung
+- [[SPP-2451-4]]: Adaptive Biomaterialien durch mechano-modulierende Bakterien
+- [[SPP-2451-12]]: Smarte Stimuli-responsive opaleszente Bakterienfilme (OPAL-Bac)
+- [[SPP-2451-13]]: SporoPrinting – 3D-Matrizen zur Immobilisierung und Steuerung funktionalisierter SporoBeads von B. subtilis als strukturierte Protein-präsentierende ELM-Plattform mit adaptiven Funktionen
+- [[SPP-2451-23]]: Living Plasmonics: Verteilte Umweltsensorik mit photolumineszenten Sensor-ELM durch enzymatische Kopplung bakterieller Sensorik mit Nanoplasmonik
