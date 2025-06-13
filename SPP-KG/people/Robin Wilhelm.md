@@ -5,7 +5,7 @@ M.Sc. Robin Wilhelm
 - Functionalized Coatings
 - Institute of Functional Interfaces
 - Karlsruhe Institute of Technology
-- [[SPP-2451-6]]
+- [[SPP-2451-Project06]]
 ## Contact
 - robin.wilhelm@kit.edu
 - https://www.ifg.kit.edu/english/npb_functionalized-coatings.php

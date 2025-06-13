@@ -4,7 +4,6 @@ Smarte Stimuli-responsive opaleszente Bakterienfilme (OPAL-Bac)
 ## Researchers
 - [[Markus Gallei]]
 - [[Sascha Verwaayen]]
-- [[Dr-Ing. Markus Gallei]]
 - [[Marc Schneider]]
 
 ## Principal investigators

@@ -5,7 +5,7 @@ Prof. Dr. Zeynep Altintas
 - Head, Materials and Biosensor Technologies
 - Institute for Materials Science
 - Christian-Albrechts-Universität zu Kiel
-- [[SPP-2451-9]]
+- [[SPP-2451-Project09]]
 ## Contact
 - +49 (0) 431 880-6198
 - za@tf.uni-kiel.de

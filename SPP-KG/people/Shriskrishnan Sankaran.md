@@ -4,7 +4,7 @@ Dr. Shriskrishnan Sankaran
 ## Affiliations
 - Head, Bioprommable Materials
 - INM – Leibniz Institute for New Materials, Saarbrücken
-- [[SPP-2451-6]]
+- [[SPP-2451-Project06]]
 ## Contact
 - +49 (0)681-9300-167
 - Shrikrishnan.Sankaran@leibniz-inm.de

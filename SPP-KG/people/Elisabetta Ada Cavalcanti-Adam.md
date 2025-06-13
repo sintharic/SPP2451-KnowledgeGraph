@@ -5,7 +5,7 @@ Prof. Dr. Elisabetta Ada Cavalcanti-Adam
 - Head, Cellular Biomechanics
 - Faculty of Engineering Science
 - University Bayreuth
-- [[SPP-2451-2]]
+- [[SPP-2451-Project02]]
 ## Contact
 - +49 (0)921 55-7950
 - eacavalcanti@uni-bayreuth.de

@@ -4,7 +4,7 @@ M.Sc. Lennart Scheufler
 ## Affiliations
 - General Microbiology
 - Technical University Dresden
-- [[SPP-2451-15]]
+- [[SPP-2451-Project15]]
 ## Contact
 -  +49 (0)351 463-42653
 - lennart_marius.scheufler@tu-dresden.de

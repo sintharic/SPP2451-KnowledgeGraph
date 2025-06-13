@@ -4,7 +4,7 @@ Dr. Sadaf Pashapour
 ## Affiliations
 - Head, Microfluidics Core Facility
 - Institute for Molecular Systems Engineering and Advanced Materials (IMSEAM)
-- [[SPP-2451-2]]
+- [[SPP-2451-Project02]]
 ## Contact
 - +49 6221 54 15726
 - sadaf.pashapour@uni-heidelberg.de

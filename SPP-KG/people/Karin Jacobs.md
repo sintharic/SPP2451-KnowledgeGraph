@@ -5,7 +5,7 @@ Prof. Dr. Karin Jacobs
 - Head, Soft matter physics
 - Experimental Physics
 - Saarland University
-- [[SPP-2451-2]]
+- [[SPP-2451-Project02]]
 ## Contact
 - +49 (0) 681 302 71788
 - k.jacobs@physik.uni-saarland.de

@@ -34,14 +34,13 @@ for project in projects:
     name = name.lstrip()
     title = title.rstrip()
     if not title: title = 'M.Sc.'
-    # print(f'({title}) {name}')
     person['name'] = name
     person['title'] = title
-    print(f'[{name} ({title})]')
+    print(f'[{name} ({title})]')#DEBUG
 
     # get role
     role = lines[1].rstrip()
-    # print(role)
+    # print(role)#DEBUG
     person['role'] = role
 
     # get affiliations
@@ -51,22 +50,22 @@ for project in projects:
       line = line.rstrip()
       if len(line)<2: continue
       affil.append(line)
-    # print('Affil.:', affil)
+    # print('Affil.:', affil)#DEBUG
     person['affiliations'] = affil
 
     # get Phone
     for line in lines[2:]:
       if line.startswith('Phone: '):
         person['phone'] = line[7:].rstrip()
-        # print('Phone:', person['phone'])
+        # print('Phone:', person['phone'])#DEBUG
       if line.startswith('E-mail: '):
         person['email'] = line[8:].rstrip()
-        # print('E-mail:', person['email'])
+        # print('E-mail:', person['email'])#DEBUG
 
     if lines[-1].startswith('https'):
       person['website'] = lines[-1].rstrip()
-      # print('Website:', person['website'])
+      # print('Website:', person['website'])#DEBUG
 
     json.dump(person, open(f'{DST}{os.sep}{name}.json', 'w'), indent='  ')
-    print(person)
-    print()
+    # print(person)#DEBUG
+    # print()#DEBUG

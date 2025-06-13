@@ -5,7 +5,7 @@ Prof. Dr.-Ing. Laura De Laporte
 - Head, Advanced Materials for Biomedicine
 - DWI – Leibniz-Institute for
 - Interactive Material, Aaachen
-- [[SPP-2451-12]]
+- [[SPP-2451-Project12]]
 ## Contact
 - +49 (0) 241 80-23309
 - delaporte@dwi.rwth-aachen.de

@@ -4,7 +4,7 @@ M.Sc. Hannah Küttner
 ## Affiliations
 - Functional and Interactive Polymers
 - DWI – Leibniz Institute for Interactive Materials, Aachen
-- [[SPP-2451-4]]
+- [[SPP-2451-Project04]]
 ## Contact
 - +49 (0)241 80-23310
 - kuettner@dwi.rwth-aachen.de

@@ -4,7 +4,7 @@ M.Sc. Leonie Maria Holderbach
 ## Affiliations
 - BioMedical Printing Technology
 - Technical University Darmstadt
-- [[SPP-2451-1]]
+- [[SPP-2451-Project01]]
 ## Contact
 - +49 (0)6151 16-23773
 - holderbach@idd.tu-darmstadt.de

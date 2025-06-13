@@ -5,7 +5,7 @@ Dr. Daniele Di Iorio
 - Light-controlled Systems
 - Institute for Physiological Chemistry and Pathobiochemistry
 - University Münster
-- [[SPP-2451-3]]
+- [[SPP-2451-Project03]]
 ## Contact
 - +49 (0) 251 83-49309
 - diiorio@uni-muenster.de

@@ -1,5 +1,5 @@
-- [[SPP-2451-14]]: Smarte Stimuli-responsive opaleszente Bakterienfilme (OPAL-Bac)
-- [[SPP-2451-13]]: Selbstsynthetisierende, selbstorganisierende und auf stimuliresponsive multizelluläre Engineered Living Materials auf der Grundlage enzymatischer Polymerisationen auf Zelloberflächen (PolyCell-ELMs)
-- [[SPP-2451-7]]: Konstruktion lebender Aktoren aus fädigen Cyanobakterien
-- [[SPP-2451-11]]: Lebende therapeutische Materialien mit langfristiger, sonoresponsiver und mechanoadaptiver Funktion
-- [[SPP-2451-6]]: ContainELMs – Materialzentrierte, genetisch programmierte Eindämmung in Engineered Living Materials
+- [[SPP-2451-Project14]]: Smarte Stimuli-responsive opaleszente Bakterienfilme (OPAL-Bac)
+- [[SPP-2451-Project13]]: Selbstsynthetisierende, selbstorganisierende und auf stimuliresponsive multizelluläre Engineered Living Materials auf der Grundlage enzymatischer Polymerisationen auf Zelloberflächen (PolyCell-ELMs)
+- [[SPP-2451-Project07]]: Konstruktion lebender Aktoren aus fädigen Cyanobakterien
+- [[SPP-2451-Project11]]: Lebende therapeutische Materialien mit langfristiger, sonoresponsiver und mechanoadaptiver Funktion
+- [[SPP-2451-Project06]]: ContainELMs – Materialzentrierte, genetisch programmierte Eindämmung in Engineered Living Materials

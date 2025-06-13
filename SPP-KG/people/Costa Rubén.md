@@ -5,7 +5,7 @@ Prof. Dr. Costa Rubén
 - Head, Biogenic Functional Materials
 - Technical University
 - Campus Straubing
-- [[SPP-2451-8]]
+- [[SPP-2451-Project08]]
 ## Contact
 - +49 (0) 9421 187-470
 - ruben.costa@tum.de

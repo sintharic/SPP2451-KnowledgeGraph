@@ -7,7 +7,7 @@ Dr. Anja Lohde
 - Joint and Soft Tissue Research
 - University Hospital Carl Gustav Carus
 - and Faculty of Medicine, TU Dresden
-- [[SPP-2451-15]]
+- [[SPP-2451-Project15]]
 ## Contact
 - +49 351 458-16692
 - anja.lode@tu-dresden.de

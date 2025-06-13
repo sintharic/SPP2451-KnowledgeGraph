@@ -5,7 +5,7 @@ M.Sc. Gissela Constante
 - Biofabrication and Biomaterials
 - University of Bayreuth
 - Department of Biofabrication
-- [[SPP-2451-7]]
+- [[SPP-2451-Project07]]
 ## Contact
 - +49 (0)921 55-4623
 - Gissela.Constante@uni-bayreuth.de

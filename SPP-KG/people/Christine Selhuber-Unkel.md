@@ -3,7 +3,7 @@ Prof. Dr. Christine Selhuber-Unkel
 
 ## Affiliations
 - Head, Institute for Molecular Systems Engineering and Advanced Materials (IMSEAM)
-- [[SPP-2451-2]]
+- [[SPP-2451-Project02]]
 ## Contact
 - +49 (0) 6221-54 19840
 - Christine.Selhuber-Unkel@uni-heidelberg.de

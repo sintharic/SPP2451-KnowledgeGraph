@@ -5,7 +5,7 @@ Prof. Dr. Leonid Ionov
 - Head, Biofabrication and Biomaterials
 - University of Bayreuth
 - Department of Biofabrication
-- [[SPP-2451-7]]
+- [[SPP-2451-Project07]]
 ## Contact
 - +49 (0)921 55-5543
 - leonid.ionov@uni-bayreuth.de

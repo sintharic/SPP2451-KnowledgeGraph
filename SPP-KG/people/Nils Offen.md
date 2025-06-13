@@ -4,7 +4,7 @@ Dr. Nils Offen
 ## Affiliations
 - Stem cell and developmental biology
 - Technical University Darmstadt
-- [[SPP-2451-13]]
+- [[SPP-2451-Project13]]
 ## Contact
 - +49 (0)6151 16-24603
 - offen@bio.tu-darmstadt.de

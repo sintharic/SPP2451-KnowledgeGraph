@@ -5,7 +5,7 @@ Prof. Dr. Stefan Karpitschka
 - Head, Physics of Soft & Living Matter
 - University of Konstanz
 - Department of Physics
-- [[SPP-2451-7]]
+- [[SPP-2451-Project07]]
 ## Contact
 - +49 (0) 7531 88 2502
 - stefan.karpitschka@uni-konstanz.de

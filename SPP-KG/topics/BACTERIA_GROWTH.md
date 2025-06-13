@@ -1,10 +1,10 @@
-- [[SPP-2451-2]]: Adaptive kapselbasierte Materialien zur Programmierung lebender technischer Systeme
-- [[SPP-2451-9]]: Lebende Elektro-Biokatalysatoren für Sensorik und Reinigung
-- [[SPP-2451-13]]: Selbstsynthetisierende, selbstorganisierende und auf stimuliresponsive multizelluläre Engineered Living Materials auf der Grundlage enzymatischer Polymerisationen auf Zelloberflächen (PolyCell-ELMs)
-- [[SPP-2451-5]]: Kombination stimuli-responsiver Hydrogele und Scaffold-unterstützter mikrobieller Biofilme für die selbstkontrollierte katalytische Aktivität eines mikrobiellen Blatts
-- [[SPP-2451-4]]: Adaptive Lebende Samenbeschichtungen
-- [[SPP-2451-12]]: ProbioGel als adaptives lebendes Haut- und Wundtherapeutikum
-- [[SPP-2451-8]]: Konstruktion adaptiver Vibrio natriegens-Stämme für hybride Leuchtdioden (ENABLED)
-- [[SPP-2451-11]]: Lebende therapeutische Materialien mit langfristiger, sonoresponsiver und mechanoadaptiver Funktion
-- [[SPP-2451-10]]: Living Plasmonics: Verteilte Umweltsensorik mit photolumineszenten Sensor-ELM durch enzymatische Kopplung bakterieller Sensorik mit Nanoplasmonik
-- [[SPP-2451-6]]: ContainELMs – Materialzentrierte, genetisch programmierte Eindämmung in Engineered Living Materials
+- [[SPP-2451-Project02]]: Adaptive kapselbasierte Materialien zur Programmierung lebender technischer Systeme
+- [[SPP-2451-Project09]]: Lebende Elektro-Biokatalysatoren für Sensorik und Reinigung
+- [[SPP-2451-Project13]]: Selbstsynthetisierende, selbstorganisierende und auf stimuliresponsive multizelluläre Engineered Living Materials auf der Grundlage enzymatischer Polymerisationen auf Zelloberflächen (PolyCell-ELMs)
+- [[SPP-2451-Project05]]: Kombination stimuli-responsiver Hydrogele und Scaffold-unterstützter mikrobieller Biofilme für die selbstkontrollierte katalytische Aktivität eines mikrobiellen Blatts
+- [[SPP-2451-Project04]]: Adaptive Lebende Samenbeschichtungen
+- [[SPP-2451-Project12]]: ProbioGel als adaptives lebendes Haut- und Wundtherapeutikum
+- [[SPP-2451-Project08]]: Konstruktion adaptiver Vibrio natriegens-Stämme für hybride Leuchtdioden (ENABLED)
+- [[SPP-2451-Project11]]: Lebende therapeutische Materialien mit langfristiger, sonoresponsiver und mechanoadaptiver Funktion
+- [[SPP-2451-Project10]]: Living Plasmonics: Verteilte Umweltsensorik mit photolumineszenten Sensor-ELM durch enzymatische Kopplung bakterieller Sensorik mit Nanoplasmonik
+- [[SPP-2451-Project06]]: ContainELMs – Materialzentrierte, genetisch programmierte Eindämmung in Engineered Living Materials

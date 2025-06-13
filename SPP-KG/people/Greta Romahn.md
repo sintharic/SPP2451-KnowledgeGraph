@@ -5,7 +5,7 @@ M.Sc. Greta Romahn
 - Advanced Materials for Biomedicine
 - DWI – Leibniz-Institute for
 - Interactive Material, Aaachen
-- [[SPP-2451-12]]
+- [[SPP-2451-Project12]]
 ## Contact
 - +49 (0) 241 80-23171
 - romahn@dwi.rwth-aachen.de

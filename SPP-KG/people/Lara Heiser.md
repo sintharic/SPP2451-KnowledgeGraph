@@ -5,7 +5,7 @@ M.Sc. Lara Heiser
 - Biophysical Chemistry
 - Institute of Biochemistry
 - University of Leipzig
-- [[SPP-2451-5]]
+- [[SPP-2451-Project05]]
 ## Contact
 - +49-(0)341-9736781
 - lara.heiser@uni-leipzig.de

@@ -4,7 +4,7 @@ Dr. Rohan Karande
 ## Affiliations
 - Head, BioMat Bioactive systems for controlled evolutionary materials
 - University of Leipzig
-- [[SPP-2451-5]]
+- [[SPP-2451-Project05]]
 ## Contact
 - +49 341 97 – 36593
 - rohan.karande@uni-leipzig.de

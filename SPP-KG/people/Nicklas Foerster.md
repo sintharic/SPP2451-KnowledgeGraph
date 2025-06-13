@@ -5,7 +5,7 @@ M.Sc. Nicklas Foerster
 - Microbial Biotechnology
 - Technical University
 - Campus Straubing
-- [[SPP-2451-8]]
+- [[SPP-2451-Project08]]
 ## Contact
 - nicklas.foerster@tum.de
 - https://mib.cs.tum.de/en/

@@ -5,7 +5,7 @@ Prof. Dr. Bastian Blombach
 - Head, Microbial Biotechnology
 - Technical University
 - Campus Straubing
-- [[SPP-2451-8]]
+- [[SPP-2451-Project08]]
 ## Contact
 - +49 (0)9421 187-420
 - bastian.blombach@tum.de

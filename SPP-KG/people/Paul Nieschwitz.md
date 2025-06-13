@@ -5,7 +5,7 @@ M.Sc. Paul Nieschwitz
 - Physics of Soft & Living Matter
 - University of Konstanz
 - Department of Physics
-- [[SPP-2451-7]]
+- [[SPP-2451-Project07]]
 ## Contact
 - paul.nieschwitz@uni-konstanz.de
 - https://www.karpitschka.uni-konstanz.de/

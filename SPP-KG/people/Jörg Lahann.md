@@ -6,7 +6,7 @@ Prof. Dr. Jörg Lahann
 - Karlsruhe Institute of Technology
 - Director, Biointerfaces Institute
 - University of Michigan
-- [[SPP-2451-6]]
+- [[SPP-2451-Project06]]
 ## Contact
 - +49 (0) 721 608-2-5516
 - joerg.lahann@kit.edu

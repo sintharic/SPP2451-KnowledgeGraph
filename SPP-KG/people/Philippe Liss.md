@@ -5,7 +5,7 @@ M.Sc. Philippe Liss
 - Biogenic Functional Materials
 - Technical University
 - Campus Straubing
-- [[SPP-2451-8]]
+- [[SPP-2451-Project08]]
 ## Contact
 - +49 (0)9421 187-471
 - philippe.liss@tum.de

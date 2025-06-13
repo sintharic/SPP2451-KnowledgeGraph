@@ -5,7 +5,7 @@ Prof. Dr. Lorenz Adrian
 - Head, Department of Molecular Environmental Biotechnology (MEB)
 - Helmholtz Centre for Environmental Research, Leipzig
 - Technical University Berlin
-- [[SPP-2451-9]]
+- [[SPP-2451-Project09]]
 ## Contact
 - +49 (0) 341 6025-1435
 - lorenz.adrian@ufz.de

@@ -9,9 +9,10 @@ import os
 import shutil
 import json
 from glob import glob
-
 from geopandas.io import file
 
+project_string = 'SPP-2451-Project'
+# project_string = 'SPP-2451-'
 
 
 # projects = json.load(open(jsonfile))['projects']
@@ -56,6 +57,7 @@ os.makedirs(f'{vault}{os.sep}projects', exist_ok=True)
 os.makedirs(f'{vault}{os.sep}topics', exist_ok=True)
 os.makedirs(f'{vault}{os.sep}people', exist_ok=True)
 
+
 # add people to vault
 for person in people:
   filename = f"{vault}{os.sep}people{os.sep}{person['name']}.md"
@@ -66,8 +68,8 @@ for person in people:
     for affil in person['affiliations']:
       file.write(f'- {affil}\n')
     num = int(person['project'][-2:])
-    print(num)
-    file.write(f'- [[SPP-2451-{num}]]')
+    # print(num)#DEBUG
+    file.write(f'- [[{project_string}{str(num).zfill(2)}]]')
     for project in projects:
       if project['alphabetical_number'] == num:
         project['researchers'].append(f"{person['name']}")
@@ -80,8 +82,8 @@ for person in people:
 # add projects to vault
 for project in projects:
   # pid = project['lfd-nr']
-  pid = project['alphabetical_number']
-  filename = f'{vault}{os.sep}projects{os.sep}SPP-2451-{pid}.md'
+  pid = str(project['alphabetical_number']).zfill(2)
+  filename = f'{vault}{os.sep}projects{os.sep}{project_string}{pid}.md'
   with open(filename,'w') as file:
     file.write('## Title\n')
     file.write(project['title_de'])
@@ -103,6 +105,6 @@ for topic in name.keys():
     for project in projects:
       if topic in project['topics']:
         # pid = project['lfd-nr']
-        pid = project['alphabetical_number']
+        pid = str(project['alphabetical_number']).zfill(2)
         title = project['title_de']
-        file.write(f'- [[SPP-2451-{pid}]]: {title}\n')
+        file.write(f'- [[{project_string}{pid}]]: {title}\n')

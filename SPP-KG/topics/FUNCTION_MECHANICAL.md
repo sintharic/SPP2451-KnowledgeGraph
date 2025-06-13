@@ -1,7 +1,7 @@
-- [[SPP-2451-2]]: Adaptive kapselbasierte Materialien zur Programmierung lebender technischer Systeme
-- [[SPP-2451-14]]: Smarte Stimuli-responsive opaleszente Bakterienfilme (OPAL-Bac)
-- [[SPP-2451-13]]: Selbstsynthetisierende, selbstorganisierende und auf stimuliresponsive multizelluläre Engineered Living Materials auf der Grundlage enzymatischer Polymerisationen auf Zelloberflächen (PolyCell-ELMs)
-- [[SPP-2451-12]]: ProbioGel als adaptives lebendes Haut- und Wundtherapeutikum
-- [[SPP-2451-7]]: Konstruktion lebender Aktoren aus fädigen Cyanobakterien
-- [[SPP-2451-11]]: Lebende therapeutische Materialien mit langfristiger, sonoresponsiver und mechanoadaptiver Funktion
-- [[SPP-2451-1]]: Adaptive Biomaterialien durch mechano-modulierende Bakterien
+- [[SPP-2451-Project02]]: Adaptive kapselbasierte Materialien zur Programmierung lebender technischer Systeme
+- [[SPP-2451-Project14]]: Smarte Stimuli-responsive opaleszente Bakterienfilme (OPAL-Bac)
+- [[SPP-2451-Project13]]: Selbstsynthetisierende, selbstorganisierende und auf stimuliresponsive multizelluläre Engineered Living Materials auf der Grundlage enzymatischer Polymerisationen auf Zelloberflächen (PolyCell-ELMs)
+- [[SPP-2451-Project12]]: ProbioGel als adaptives lebendes Haut- und Wundtherapeutikum
+- [[SPP-2451-Project07]]: Konstruktion lebender Aktoren aus fädigen Cyanobakterien
+- [[SPP-2451-Project11]]: Lebende therapeutische Materialien mit langfristiger, sonoresponsiver und mechanoadaptiver Funktion
+- [[SPP-2451-Project01]]: Adaptive Biomaterialien durch mechano-modulierende Bakterien

@@ -5,7 +5,7 @@ Dr. Elisabeth Heine
 - Macromolecular Materials and Systems
 - DWI – Leibniz-Institute for
 - Interactive Material, Aaachen
-- [[SPP-2451-12]]
+- [[SPP-2451-Project12]]
 ## Contact
 - +49 (0) 241 80-23306
 - heine@dwi.rwth-aachen.de

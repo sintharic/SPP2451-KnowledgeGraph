@@ -5,7 +5,7 @@ Dr. Meike König
 - Head, Functionalized Coatings
 - Institute of Functional Interfaces
 - Karlsruhe Institute of Technology
-- [[SPP-2451-6]]
+- [[SPP-2451-Project06]]
 ## Contact
 - +49 (0) 721 608-2-2108
 - meike.koenig@kit.edu
