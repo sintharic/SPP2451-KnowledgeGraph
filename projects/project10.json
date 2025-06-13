@@ -1,0 +1,20 @@
+{
+  "lfd-nr": 23,
+  "applications": [
+    "KR 3729/25-1",
+    "WE 4733/9-1"
+  ],
+  "principal_investigators": [
+    "Kraus, Tobias",
+    "Weber, Wilfried"
+  ],
+  "title_de": "Living Plasmonics: Verteilte Umweltsensorik mit photolumineszenten Sensor-ELM durch enzymatische Kopplung bakterieller Sensorik mit Nanoplasmonik",
+  "title_en": "Living Plasmonics: Distributed environmental sensing with photoluminescent sensor ELM through enzymatic coupling of bacterial sensing with nanoplasmonics",
+  "locations": [
+    "Saarbr\u00fccken",
+    "Saarbr\u00fccken"
+  ],
+  "collaborators": "",
+  "abstract_de": "Bakterielle Sensoren mit genetisch programmierten Schaltkreisen erkennen Umweltschadstoffe wie Antibiotika mit hoher Selektivit\u00e4t und Sensitivit\u00e4t. Sie eignen sich f\u00fcr die effiziente \u00dcberwachung gro\u00dfer Fl\u00e4chen oder abgeschiedener Gebiete, weil die Bakterien keine elektrischen Energiequellen oder Wartung ben\u00f6tigen und ein einfacher Biofilm alle Elemente zur Detektion enth\u00e4lt. Diese hochattraktiven, nachwachsenden Sensoren werden heute oft deshalb nicht genutzt, weil die Auswertung bakterieller Sensor-Antworten aufw\u00e4ndige Infrastruktur erfordert, die im Feld nicht verf\u00fcgbar ist. \nAndererseits wurden in den letzten Jahren hybride Sensor-Materialien f\u00fcr die Umweltanalytik auf Basis von Nanoplasmonik und Photolumineszenz (PL) entwickelt. Ihre optischen Eigenschaften h\u00e4ngen von der Konzentration bestimmter Analyten ab. Sie lassen sich effizient mit Laserdioden anregen und mit einfachen CCD-Kameras auswerten. Sensor-Materialien auf Basis anorganischer Materialien und Polymere sind robust und k\u00f6nnen z.B. von Drohnen ausgelesen werden. Sie reagieren aber weniger spezifisch und empfindlich als etablierte elektrochemische oder chromatographische Verfahren, was ihre Einsatzbereiche beschr\u00e4nkt.\nIn diesem Projekt verbinden wir bakterielle Sensorik mit Plasmonenresonanz und Photonen-Hochkonversion in lebendigen Sensor-Materialien (ELM). Wir koppeln die Empfindlichkeit und Spezifizit\u00e4t der Bakterien mit der Robustheit und Intensit\u00e4t optisch aktiver Partikel. Zentrales Bindeglied ist das Enzym Goldreduktase GoIR, das vor kurzen erstmals in Bakterien beschrieben wurde. In dem Projekt stellen wir E. coli-Zellen her, die nur dann GoIR bilden, wenn die Bakterien Schadstoffe wie Tetrazykline oder Arsen detektieren. Ein Biofilm dieser Bakterien wird dann in einem Mehrschicht-ELM integriert. \nWenn der Analyt den Biofilm erreicht, reduziert GoIR einen Gold-Komplex und bildet Nanopartikel mit starker Oberfl\u00e4chenplasmonenresonanz im Bakterium. Durch gezielt eingestellte Entmischung und Agglomeration der Partikel erreichen wir die Bildung resonanter plasmonischer \u00dcberstrukturen, welche die optische Dichte des bakteriellen Mikrofilms drastisch erh\u00f6hen. Damit wird die Emission eines photolumineszenten Films beim Auslesen moduliert und ein starkes PL-Signal erzeugt, das von der Konzentration des detektierten Analyten abh\u00e4ngt. Durch ratiometrische Auswertung der Emission bei zwei Wellenl\u00e4ngen k\u00f6nnen wir so die Gegenwart des Analyten schnell und aus Entfernung ermitteln.\nDer im Projekt verfolgte Ansatz ist modular, weil die f\u00fcr die Detektion verantwortlichen genetischen Schaltkreise unabh\u00e4ngig vom optischen System ausgetauscht werden k\u00f6nnen. Die Ergebnisse schaffen nicht nur einen Hybrid aus Bio- und plasmonischem Sensor. Sie lassen sich in anderen Projekten des SPP einsetzen, um den Zustand anderer ELM anzuzeigen.",
+  "alphabetical_number": 10
+}

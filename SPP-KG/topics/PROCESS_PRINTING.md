@@ -1,3 +1,3 @@
-- [[SPP-2451-15]]: Smarte Stimuli-responsive opaleszente Bakterienfilme (OPAL-Bac)
-- [[SPP-2451-01]]: Adaptive Biomaterialien durch mechano-modulierende Bakterien
-- [[SPP-2451-16]]: SporoPrinting – 3D-Matrizen zur Immobilisierung und Steuerung funktionalisierter SporoBeads von B. subtilis als strukturierte Protein-präsentierende ELM-Plattform mit adaptiven Funktionen
+- [[SPP-2451-15]]: SporoPrinting – 3D-Matrizen zur Immobilisierung und Steuerung funktionalisierter SporoBeads von B. subtilis als strukturierte Protein-präsentierende ELM-Plattform mit adaptiven Funktionen
+- [[SPP-2451-14]]: Smarte Stimuli-responsive opaleszente Bakterienfilme (OPAL-Bac)
+- [[SPP-2451-1]]: Adaptive Biomaterialien durch mechano-modulierende Bakterien

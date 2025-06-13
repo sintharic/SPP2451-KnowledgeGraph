@@ -1,0 +1,20 @@
+{
+  "lfd-nr": 1,
+  "applications": [
+    "AD 178/13-1",
+    "AL 2190/8-1"
+  ],
+  "principal_investigators": [
+    "Adrian, Lorenz",
+    "Altintas, Zeynep"
+  ],
+  "title_de": "Lebende Elektro-Biokatalysatoren f\u00fcr Sensorik und Reinigung",
+  "title_en": "Living electro-biocatalyst scaffolds for sensing and cleaning",
+  "locations": [
+    "Leipzig",
+    "Kiel"
+  ],
+  "collaborators": "Budisa, Nediljko (U Manitoba, Winnipeg)",
+  "abstract_de": "In diesem Projekt b\u00fcndeln wir das Fachwissen der Gruppen Altintas (Materialwissenschaften, Biosensoren und 3D-Druck), Adrian (Metalloproteomik, Redoxenzyme, Organohalidatmung und Bioremediation) und Budisa (Synthetische Biologie und Xenobiologie). Unser Ziel ist die Entwicklung einer Plattformtechnologie f\u00fcr die Herstellung von \"\"Engineered Living Materials with Adaptive Functions\"\" (ELM) im Bereich der Sensortechnologie und Biokatalyse. Das Hauptziel im Bereich der Materialien ist die Etablierung eines innovativen Laserstrukturierungsverfahrens zur Herstellung von por\u00f6sen leitf\u00e4higen Hydrogelen (PCH), das sowohl schnell als auch biokompatibel ist. Mit diesem Verfahren sollen durch lasergeschriebene Phasentrennung (LSPS) biologisch abbaubare, umweltstabile PCH hergestellt werden, die auch als Elektrodenmaterialien f\u00fcr die Anlagerung von Bakterien dienen und die Effizienz des Elektronentransfers verbessern. Die LSPS wird die Massenproduktion von PCH-basierten Elektrodenmaterialien erleichtern, indem sie mehrere Herstellungsprozesse in eine einzige Elektrodenvorbereitungsphase integriert. Das Hauptziel im Bereich der Biologie ist die Entwicklung von Zellen, die redoxaktive Metalloproteine auf der Zelloberfl\u00e4che exprimieren und die Verbindung dieser redoxaktiven Metalloproteine \u00fcber einen leitf\u00e4higen Linker mit der Materialoberfl\u00e4che durch Click-Chemie. Dazu werden wir zuvor generierte E. coli-Zellen verwenden, die in der Lage sind, die nicht-kanonische Aminos\u00e4ure L Azidohomoalanin zu synthetisieren und diese Aminos\u00e4ure an der Position eines refunktionierten Stop-Codons einzubauen. Auf diese Weise k\u00f6nnen wir die Position definieren, an der ein Protein mit einer Oberfl\u00e4che verbunden ist. In einem gemeinsamen Ansatz werden wir die entwickelten leitf\u00e4higen PCH, die Alkinreste f\u00fcr die Click-Chemie enthalten, mit den mikrobiellen Zellen zusammenbringen, die das reaktiven L-Azidohomoalanin an definierten Positionen auf der Oberfl\u00e4che enthalten. Unser Ziel ist es, eine enge, elektronenleitende Bindung zu erreichen. Auf diese Weise wollen wir ein druckbares 3D-Material mit leitf\u00e4higen Adaptern f\u00fcr elektroaktive mikrobielle Zellen entwickeln. Die Zellen werden \u00fcber das leitf\u00e4hige Material durch den Elektronenfluss gesteuert und k\u00f6nnen mit Wachstum und Expression spezifischer Enzyme reagieren. Die Substratkonzentration und der Substratumsatz k\u00f6nnen gemessen werden. Der Anwendungsbereich ist breit gef\u00e4chert, wir konzentrieren uns jedoch auf Anwendungen im Bereich der Umweltbiotechnologie. ",
+  "alphabetical_number": 9
+}

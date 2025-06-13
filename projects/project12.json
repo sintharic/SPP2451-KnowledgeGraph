@@ -1,0 +1,20 @@
+{
+  "lfd-nr": 17,
+  "applications": [
+    "HE 2861/3-1",
+    "LA 3606/5-1"
+  ],
+  "principal_investigators": [
+    "Heine, Elisabeth",
+    "Laporte, Laura"
+  ],
+  "title_de": "ProbioGel als adaptives lebendes Haut- und Wundtherapeutikum",
+  "title_en": "ProbioGel as Adaptive Living Skin and Wound Therapeutics",
+  "locations": [
+    "Aachen",
+    "Aachen"
+  ],
+  "collaborators": "L\u00fctticken, Rudolf (DWI Leibniz-I f Interaktive Materialien, Aachen)",
+  "abstract_de": "Ziel von ProbioGel ist, durch synergetische Kombination modifizierter Mikrogele und probiotischer Bakterien (PB) \u201eEngineered Living Materials\u201c als antibiotikafreie Hauttherapeutika zu entwickeln. Wir erarbeiten grundlegende Designkonzepte und Regeln f\u00fcr die Herstellung eines \u201clebenden Gel-Hautpflaster-ELMs\u201d, das Bacteriocin-produzierende, Hautpathogene-hemmende PB und funktionale Mikrogel-basierte, makropor\u00f6se 3D Scaffolds (MAPs) enth\u00e4lt, die sich wechselseitig beeinflussen. In diesem Projekt werden wir den Vliesstoff, der im etablierten ProbioPad zwischen zwei Membranen eingeschlossen wird, durch ein MAP ersetzen. Dadurch werden die Zell-Zell-Interaktion und die Verf\u00fcgbarkeit von N\u00e4hrstoffen durch Diffusion erh\u00f6ht und somit die Proliferation der PB besser reguliert. Die nicht-lebenden MAP werden mit Haftstellen f\u00fcr die PB modifiziert und k\u00f6nnen so durch die lebenden PB vernetzt und gestaltet werden. Die MAP werden so modifiziert, dass sie die antimikrobielle Wirksamkeit der PB steuern k\u00f6nnen, z.B. durch Steigerung der Bacteriocin-Produktion \u00fcber kontrollierte Freisetzung induktiver Molek\u00fcle. Design-Parameter f\u00fcr die mittels In-Mold-Polymerisation oder Mikrofluidik hergestellten st\u00e4bchenf\u00f6rmigen Mikrogele, wie Gr\u00f6\u00dfe, Seitenverh\u00e4ltnis, Steifigkeit, Reaktivit\u00e4t, Biomodifizierung und Reaktionsf\u00e4higkeit gegen\u00fcber externen Signalen werden systematisch variiert. Untersucht wird, wie diese Parameter die dynamische Struktur der Mikrogele, Bakterienwachstum, Produktion, Diffusion und Freisetzung von Bacteriocinen, antimikrobielle Wirkung und das Upscaling des ProbioGel-ELM beeinflussen. Zus\u00e4tzlich wird eine Strategie zur biologischen Sicherheit entwickelt, die das \u00dcberleben der PB auf die MAPs begrenzt. Zun\u00e4chst werden die interaktiv und reaktionsf\u00e4hig designten Mikrogele und die PB wie beim ProbioPad in ein Membran-Encasing zur Ausbildung des MAP-Scaffolds injiziert. Dies gew\u00e4hrleistet die antimikrobielle Wirksamkeit und intrinsische Sicherheit und erm\u00f6glicht die klinische Umsetzung. Danach wird die feste Membran durch einen weicheren, mechanisch flexiblen Hydrogelfilm ersetzt, dessen Zusammensetzung und Maschenweite das Entweichen der PB einschr\u00e4nkt. Die antimikrobielle Wirksamkeit des ProbioGels mit den darin enthaltenen Mikrogelen und PB wird mittels Antagonismus-Tests auf Agarplatten gegen definierte pathogene Mikroorganismen und schlie\u00dflich mit einem ex vivo Hautinfektionsmodell bestimmt. Entscheidend ist die Booster-Freisetzung von therapeutischen Molek\u00fclen nach Hautkontakt und Hydratisierung der MAP \u00fcber das Erkennen eines Signalmolek\u00fcls, das von stark infizierten Wunden stammt. Dies f\u00fchrt zu einer kaskadenartigen Anpassung der lebenden PB im nicht-lebenden MAP und zu einer schaltbaren, erh\u00f6hten Freisetzung der therapeutischen Molek\u00fcle aus dem ProbioGel_ELM. Die Mikrogele - funktionalisiert und f\u00fcr den 3D-Druck \u2013 k\u00f6nnen anderen Forschern im SPP zur Verf\u00fcgung gestellt werden. Auch adaptive Linker und Biocontainment Strategien k\u00f6nnen geteilt werden.",
+  "alphabetical_number": 12
+}

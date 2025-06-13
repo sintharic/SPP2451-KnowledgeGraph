@@ -1,0 +1,20 @@
+{
+  "lfd-nr": 4,
+  "applications": [
+    "BL 1804/6-1",
+    "KO 4854/11-1"
+  ],
+  "principal_investigators": [
+    "Blaeser, Andreas",
+    "Koeppl, Heinz"
+  ],
+  "title_de": "Adaptive Biomaterialien durch mechano-modulierende Bakterien",
+  "title_en": "Adaptive biomaterials through mechano-modulating bacteria",
+  "locations": [
+    "Darmstadt",
+    "Darmstadt"
+  ],
+  "collaborators": "",
+  "abstract_de": "Die Integration lebender Zellen in Biomaterialien erm\u00f6glicht es, die hochentwickelte verk\u00f6rperte Intelligenz von Zellen f\u00fcr die Entwicklung neuartiger adaptiver Biomaterialien nutzbar zu machen. Die exquisiten sensorischen F\u00e4higkeiten der Zelle und ihre vielseitigen Produktionskapazit\u00e4ten bieten beispiellose M\u00f6glichkeiten, Materialien mit adaptiver Funktionalit\u00e4t auszustatten. Der Einsatz moderner Werkzeuge der synthetischen Biologie erm\u00f6glicht es, bestehende Sensorwege neu zu verdrahten oder v\u00f6llig neue molekulare Funktionen auf effiziente und zunehmend rationale Weise zu entwickeln.  In diesem Projekt wollen wir die synthetische Biologie nutzen, um Mikroorganismen, die mit dem Matrixmaterial in einer bidirektionalen Weise interagieren, genetisch neue Sinnesprozess-Reaktionsf\u00e4higkeiten zu verleihen. Genauer gesagt werden wir E. coli so ver\u00e4ndern, dass sie auf mechanischen Stress, der auf die Zellwand einwirkt, durch die Expression und Sekretion von Matrix-modulierenden Faktoren reagieren. Insbesondere werden wir genetische Schaltkreise f\u00fcr die stressinduzierte Genexpression von matrixverst\u00e4rkenden und -abbauenden Substanzen entwerfen. Unter vielen m\u00f6glichen Varianten wird dies Materialien erm\u00f6glichen, die sich automatisch entlang der Hauptbelastungslinien verst\u00e4rken und in Bereichen mit geringer Belastung weicher werden k\u00f6nnen. Wir werden die Kompatibilit\u00e4t verschiedener Matrixbasismaterialien und deren Zusammensetzung f\u00fcr die Lebensf\u00e4higkeit von E. coli und f\u00fcr die Kraft\u00fcbertragung auf die Bakterien untersuchen. F\u00fcr die biochemische Stresstransduktion werden wir das RcsCDB-Zweikomponentensystem nutzen, aber wir werden auch agnostisch nach Promotoren suchen, die auf mechanischen Stress reagieren. Wir werden die Matrix-modulierende Wirkung der resultierenden gentechnisch ver\u00e4nderten Bakterien in quantitativer Hinsicht genau charakterisieren. Mit Hilfe unserer 3D-Bioprinting-F\u00e4higkeiten werden wir diese Bakterien in r\u00e4umlich aufgel\u00f6ster Weise ablagern, um neuartige 3D-Origami-Strukturen zu realisieren. Schlie\u00dflich werden wir unser neues, k\u00fcnstlich hergestelltes lebendes Material (ELM) einsetzen, um ein neues Herstellungsparadigma zu erproben. Bei diesem biomorphen Ansatz werden die Materialien wiederholt mit den gew\u00fcnschten Belastungsprofilen trainiert und bauen automatisch eine neue, f\u00fcr die angewandte Belastung optimale Tragstruktur auf. Das Projekt wird unser grundlegendes Verst\u00e4ndnis von ELMs verbessern und dadurch neue Erkenntnisse \u00fcber die Mechanosensorik in Bakterien liefern, ihr Potenzial f\u00fcr die Neugestaltung in der synthetischen Biologie erhellen und neue Design- und Herstellungstechnologien f\u00fcr adaptive Biomaterialien hervorbringen.",
+  "alphabetical_number": 1
+}

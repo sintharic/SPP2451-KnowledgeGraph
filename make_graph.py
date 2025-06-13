@@ -10,10 +10,13 @@ import shutil
 import json
 from glob import glob
 
+from geopandas.io import file
+
 
 
 # projects = json.load(open(jsonfile))['projects']
 projects = [json.load(open(file,'r')) for file in glob(f'projects{os.sep}*.json')]
+people = [json.load(open(file,'r')) for file in glob(f'people{os.sep}*.json')]
 ontology = json.load(open(ontofile))
 keywords = json.load(open(kwfile))
 
@@ -35,6 +38,7 @@ except:
 for project in projects:
   abstract = project['abstract_de'].lower()
   project['topics'] = []
+  project['researchers'] = []
   for topic in keywords.keys():
     for keyword in keywords[topic]:
       idx = abstract.find(keyword)
@@ -52,17 +56,43 @@ os.makedirs(f'{vault}{os.sep}projects', exist_ok=True)
 os.makedirs(f'{vault}{os.sep}topics', exist_ok=True)
 os.makedirs(f'{vault}{os.sep}people', exist_ok=True)
 
+# add people to vault
+for person in people:
+  filename = f"{vault}{os.sep}people{os.sep}{person['name']}.md"
+  with open(filename, 'w') as file:
+    file.write('## Full Name\n')
+    file.write(f"{person['title']} {person['name']}\n")
+    file.write('\n## Affiliations\n')
+    for affil in person['affiliations']:
+      file.write(f'- {affil}\n')
+    num = int(person['project'][-2:])
+    print(num)
+    file.write(f'- [[SPP-2451-{num}]]')
+    for project in projects:
+      if project['alphabetical_number'] == num:
+        project['researchers'].append(f"{person['name']}")
+    file.write('\n## Contact\n')
+    if person['phone']: file.write(f"- {person['phone']}\n")
+    if person['email']: file.write(f"- {person['email']}\n")
+    if person['website']: file.write(f"- {person['website']}\n")
+
+
+# add projects to vault
 for project in projects:
-  pid = project['lfd-nr']
+  # pid = project['lfd-nr']
+  pid = project['alphabetical_number']
   filename = f'{vault}{os.sep}projects{os.sep}SPP-2451-{pid}.md'
   with open(filename,'w') as file:
     file.write('## Title\n')
     file.write(project['title_de'])
-    file.write('\n\n## PIs\n')
+    file.write('\n\n## Researchers\n')
+    for person in project['researchers']:
+      file.write(f'- [[{person}]]\n')
+    file.write('\n## Principal investigators\n')
     for idx,PI in enumerate(project['principal_investigators']):
       loc = project['locations'][idx]
       file.write(f'{PI} ({loc})\n')
-    file.write('\n## Abstract\n')
+    file.write('\n## Zusammenfassung\n')
     file.write(project['abstract_de'])
 
 for topic in name.keys():

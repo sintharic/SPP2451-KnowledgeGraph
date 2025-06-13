@@ -75,13 +75,18 @@ for project in projects:
   if project['abstract_de'][-1]=='"': project['abstract_de'] = project['abstract_de'][:-1]
   if project['abstract_de'][0]=='"': project['abstract_de'] = project['abstract_de'][1:]
 
-# create individual json files for projects
+# drop the coordination project
+for i,project in enumerate(projects):
+  if project['lfd-nr']==8:
+    print('dropping:', project['title_de'])
+    projects.pop(i)
+    break
+
 projects = sorted(projects, key=lambda p: p['title_en'].lower())
 # projects = sorted(projects, key=lambda p: p['lfd-nr'])
 for i,project in enumerate(projects):
-  if project['lfd-nr']==8: continue # skip the coordination project
-  project['alphabetical_number'] = str(i+1).zfill(2)
-  json.dump(project, open(f"{DST_projects}{os.sep}project{project['alphabetical_number']}.json", 'w'), indent='  ')
+  project['alphabetical_number'] = i+1
+  json.dump(project, open(f"{DST_projects}{os.sep}project{str(project['alphabetical_number']).zfill(2)}.json", 'w'), indent='  ')
 
 # create global json file
 data = dict()

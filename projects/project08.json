@@ -1,0 +1,20 @@
+{
+  "lfd-nr": 3,
+  "applications": [
+    "BL 1408/5-1",
+    "CO 1532/5-1"
+  ],
+  "principal_investigators": [
+    "Blombach, Bastian",
+    "Costa, Rub\u00e9n"
+  ],
+  "title_de": "Konstruktion adaptiver Vibrio natriegens-St\u00e4mme f\u00fcr hybride Leuchtdioden (ENABLED)",
+  "title_en": "Engineering adaptive Vibrio natriegens strains for bacteria-hybrid light-emitting diodes (ENABLED)",
+  "locations": [
+    "M\u00fcnchen",
+    "M\u00fcnchen"
+  ],
+  "collaborators": "",
+  "abstract_de": "Heutige biologische und einstellbare Leuchtmittel, die lebende Bausteine integrieren, sind im Wesentlichen auf Zellen beschr\u00e4nkt, die Biochemilumineszenz mit begrenzter Stabilit\u00e4t und Lichtausbeute nutzen (d. h. einige Tage bei Lichtausbeuten <5 lm/W). Tats\u00e4chlich gibt es keine Beispiele f\u00fcr lebende Leuchtmittel, die Photonenumwandlungssysteme zur Manipulation von Licht nutzen. Wir haben k\u00fcrzlich eine neue Methode zur Herstellung lebender Farbfiltern mit Vibrio natriegens entwickelt. Dieses Bakterium weist (I) ein vielversprechendes Potenzial f\u00fcr die Biotechnologie mit einer au\u00dferordentlich hohen Wachstums- und Substratverbrauchsrate, (II) einen bereits sehr guten Ertrag bei der Expression hochwertiger fluoreszierender Proteine (FP) und (III) eine vielversprechende Kompatibilit\u00e4t mit Matrizen, die f\u00fcr Leuchtmittel von gro\u00dfem Interesse sind, auf. Tats\u00e4chlich haben vorl\u00e4ufige Experimente Leuchtmittel erzeugt die eine bessere Leistung aufweisen als diejenigen die mit denselben FP in Referenzmatrizen hergestellt wurden. Die aktuellen Hindernisse h\u00e4ngen mit dem Mangel an grundlegendem Wissen zusammen, um (I) die Expression beliebiger FP erfolgreich zu optimieren, (II) die Widerstandsf\u00e4higkeit und Kompatibilit\u00e4t in den Matrizen zu verbessern, (III) eine Anpassungsf\u00e4higkeit an externe Reize einzuf\u00fchren und (IV) die besten Leuchtmittelarchitekturen und Betriebsarten zur Maximierung der Leuchtmittelleistung zu erstellen. Das ENABLED-Projekt wird all diese offenen Fragen bearbeiten und dabei die Disziplinen Metabolic Engineering, Synthetische Biologie, Materialwissenschaft und Biooptoelektronik miteinander verbinden. ENABLED wird insbesondere grundlegende Konstruktionsregeln f\u00fcr die Entwicklung von V. natriegens-St\u00e4mmen mit (I) optimierter flexibler Einzel- und Doppelemission, (II) verbesserter Widerstandsf\u00e4higkeit in Farbfiltern, um ihre Wiederverwertbarkeit nach der Verwendung in Leuchtmitteln zu erm\u00f6glichen, und (III) einer Anpassungsf\u00e4higkeit an die Temperatur in Farbfiltern, um die Zellregeneration nach der Verwendung in den Leuchtmitteln zu erm\u00f6glichen. Dies wird es uns erm\u00f6glichen, eine neue Familie von Regenbogen- und wei\u00dfen Bakterien-Hybrid-Leuchtdioden einzuf\u00fchren, die bislang nicht zur Verf\u00fcgung stehen.",
+  "alphabetical_number": 8
+}

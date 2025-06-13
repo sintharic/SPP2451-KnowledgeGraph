@@ -22,6 +22,9 @@ for project in projects:
     if name.startswith('Prof. '): 
       title += 'Prof. '
       name = name[6:]
+    if name.startswith('Dr-Ing. '): 
+      title += 'Dr.-Ing. '
+      name = name[8:]
     if name.startswith('Dr.-Ing. '): 
       title += 'Dr.-Ing. '
       name = name[9:]
