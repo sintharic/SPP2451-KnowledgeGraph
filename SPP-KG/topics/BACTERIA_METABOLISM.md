@@ -1,6 +1,6 @@
-- [[SPP-2451-3]]: Konstruktion adaptiver Vibrio natriegens-Stämme für hybride Leuchtdioden (ENABLED)
-- [[SPP-2451-5]]: Selbstsynthetisierende, selbstorganisierende und auf stimuliresponsive multizelluläre Engineered Living Materials auf der Grundlage enzymatischer Polymerisationen auf Zelloberflächen (PolyCell-ELMs)
-- [[SPP-2451-7]]: Lebende therapeutische Materialien mit langfristiger, sonoresponsiver und mechanoadaptiver Funktion
-- [[SPP-2451-13]]: SporoPrinting – 3D-Matrizen zur Immobilisierung und Steuerung funktionalisierter SporoBeads von B. subtilis als strukturierte Protein-präsentierende ELM-Plattform mit adaptiven Funktionen
-- [[SPP-2451-17]]: ProbioGel als adaptives lebendes Haut- und Wundtherapeutikum
-- [[SPP-2451-19]]: Adaptive Biotechnologisch-modifizierte Bakterielle Koazervate
+- [[SPP-2451-03]]: Adaptive Biotechnologisch-modifizierte Bakterielle Koazervate
+- [[SPP-2451-14]]: Selbstsynthetisierende, selbstorganisierende und auf stimuliresponsive multizelluläre Engineered Living Materials auf der Grundlage enzymatischer Polymerisationen auf Zelloberflächen (PolyCell-ELMs)
+- [[SPP-2451-09]]: Konstruktion adaptiver Vibrio natriegens-Stämme für hybride Leuchtdioden (ENABLED)
+- [[SPP-2451-13]]: ProbioGel als adaptives lebendes Haut- und Wundtherapeutikum
+- [[SPP-2451-12]]: Lebende therapeutische Materialien mit langfristiger, sonoresponsiver und mechanoadaptiver Funktion
+- [[SPP-2451-16]]: SporoPrinting – 3D-Matrizen zur Immobilisierung und Steuerung funktionalisierter SporoBeads von B. subtilis als strukturierte Protein-präsentierende ELM-Plattform mit adaptiven Funktionen

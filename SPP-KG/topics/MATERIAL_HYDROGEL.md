@@ -1,5 +1,5 @@
-- [[SPP-2451-1]]: Lebende Elektro-Biokatalysatoren für Sensorik und Reinigung
-- [[SPP-2451-7]]: Lebende therapeutische Materialien mit langfristiger, sonoresponsiver und mechanoadaptiver Funktion
-- [[SPP-2451-17]]: ProbioGel als adaptives lebendes Haut- und Wundtherapeutikum
-- [[SPP-2451-21]]: Kombination stimuli-responsiver Hydrogele und Scaffold-unterstützter mikrobieller Biofilme für die selbstkontrollierte katalytische Aktivität eines mikrobiellen Blatts
-- [[SPP-2451-27]]: Adaptive Lebende Samenbeschichtungen
+- [[SPP-2451-13]]: ProbioGel als adaptives lebendes Haut- und Wundtherapeutikum
+- [[SPP-2451-05]]: Kombination stimuli-responsiver Hydrogele und Scaffold-unterstützter mikrobieller Biofilme für die selbstkontrollierte katalytische Aktivität eines mikrobiellen Blatts
+- [[SPP-2451-04]]: Adaptive Lebende Samenbeschichtungen
+- [[SPP-2451-12]]: Lebende therapeutische Materialien mit langfristiger, sonoresponsiver und mechanoadaptiver Funktion
+- [[SPP-2451-10]]: Lebende Elektro-Biokatalysatoren für Sensorik und Reinigung

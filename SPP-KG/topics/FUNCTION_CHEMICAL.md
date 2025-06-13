@@ -1,9 +1,9 @@
-- [[SPP-2451-1]]: Lebende Elektro-Biokatalysatoren für Sensorik und Reinigung
-- [[SPP-2451-3]]: Konstruktion adaptiver Vibrio natriegens-Stämme für hybride Leuchtdioden (ENABLED)
-- [[SPP-2451-4]]: Adaptive Biomaterialien durch mechano-modulierende Bakterien
-- [[SPP-2451-6]]: Adaptive kapselbasierte Materialien zur Programmierung lebender technischer Systeme
-- [[SPP-2451-7]]: Lebende therapeutische Materialien mit langfristiger, sonoresponsiver und mechanoadaptiver Funktion
-- [[SPP-2451-21]]: Kombination stimuli-responsiver Hydrogele und Scaffold-unterstützter mikrobieller Biofilme für die selbstkontrollierte katalytische Aktivität eines mikrobiellen Blatts
-- [[SPP-2451-22]]: ContainELMs – Materialzentrierte, genetisch programmierte Eindämmung in Engineered Living Materials
-- [[SPP-2451-23]]: Living Plasmonics: Verteilte Umweltsensorik mit photolumineszenten Sensor-ELM durch enzymatische Kopplung bakterieller Sensorik mit Nanoplasmonik
-- [[SPP-2451-27]]: Adaptive Lebende Samenbeschichtungen
+- [[SPP-2451-02]]: Adaptive kapselbasierte Materialien zur Programmierung lebender technischer Systeme
+- [[SPP-2451-09]]: Konstruktion adaptiver Vibrio natriegens-Stämme für hybride Leuchtdioden (ENABLED)
+- [[SPP-2451-05]]: Kombination stimuli-responsiver Hydrogele und Scaffold-unterstützter mikrobieller Biofilme für die selbstkontrollierte katalytische Aktivität eines mikrobiellen Blatts
+- [[SPP-2451-04]]: Adaptive Lebende Samenbeschichtungen
+- [[SPP-2451-12]]: Lebende therapeutische Materialien mit langfristiger, sonoresponsiver und mechanoadaptiver Funktion
+- [[SPP-2451-11]]: Living Plasmonics: Verteilte Umweltsensorik mit photolumineszenten Sensor-ELM durch enzymatische Kopplung bakterieller Sensorik mit Nanoplasmonik
+- [[SPP-2451-10]]: Lebende Elektro-Biokatalysatoren für Sensorik und Reinigung
+- [[SPP-2451-06]]: ContainELMs – Materialzentrierte, genetisch programmierte Eindämmung in Engineered Living Materials
+- [[SPP-2451-01]]: Adaptive Biomaterialien durch mechano-modulierende Bakterien

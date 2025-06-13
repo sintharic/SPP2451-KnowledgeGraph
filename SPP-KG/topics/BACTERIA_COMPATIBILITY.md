@@ -1,8 +1,7 @@
-- [[SPP-2451-1]]: Lebende Elektro-Biokatalysatoren für Sensorik und Reinigung
-- [[SPP-2451-3]]: Konstruktion adaptiver Vibrio natriegens-Stämme für hybride Leuchtdioden (ENABLED)
-- [[SPP-2451-4]]: Adaptive Biomaterialien durch mechano-modulierende Bakterien
-- [[SPP-2451-6]]: Adaptive kapselbasierte Materialien zur Programmierung lebender technischer Systeme
-- [[SPP-2451-8]]: Koordinationsantrag SPP2451: Lebende Materialien mit Adaptiven Funktionen
-- [[SPP-2451-12]]: Smarte Stimuli-responsive opaleszente Bakterienfilme (OPAL-Bac)
-- [[SPP-2451-17]]: ProbioGel als adaptives lebendes Haut- und Wundtherapeutikum
-- [[SPP-2451-19]]: Adaptive Biotechnologisch-modifizierte Bakterielle Koazervate
+- [[SPP-2451-15]]: Smarte Stimuli-responsive opaleszente Bakterienfilme (OPAL-Bac)
+- [[SPP-2451-03]]: Adaptive Biotechnologisch-modifizierte Bakterielle Koazervate
+- [[SPP-2451-02]]: Adaptive kapselbasierte Materialien zur Programmierung lebender technischer Systeme
+- [[SPP-2451-09]]: Konstruktion adaptiver Vibrio natriegens-Stämme für hybride Leuchtdioden (ENABLED)
+- [[SPP-2451-13]]: ProbioGel als adaptives lebendes Haut- und Wundtherapeutikum
+- [[SPP-2451-10]]: Lebende Elektro-Biokatalysatoren für Sensorik und Reinigung
+- [[SPP-2451-01]]: Adaptive Biomaterialien durch mechano-modulierende Bakterien
