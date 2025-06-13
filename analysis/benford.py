@@ -1,8 +1,9 @@
-jsonfile = 'SPP.json'
-
+import os
 import json
 import numpy as np
 import matplotlib.pyplot as plt
+
+jsonfile = f'..{os.sep}SPP.json'
 
 projects = json.load(open(jsonfile))['projects']
 
@@ -26,3 +27,4 @@ plt.ylabel('frequency')
 plt.errorbar(digits, freq.mean(axis=1), std, fmt='o', capsize=5)
 plt.plot(cdigits, np.log10(cdigits+1) - np.log10(cdigits), '-', label='Benford\'s law')
 plt.legend()
+plt.savefig('benford.png', dpi=500)

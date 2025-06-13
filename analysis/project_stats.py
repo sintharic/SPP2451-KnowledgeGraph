@@ -1,8 +1,9 @@
-jsonfile = 'SPP.json'
-
+import os
 import json
 import numpy as np
 import matplotlib.pyplot as plt
+
+jsonfile = f'..{os.sep}SPP.json'
 
 projects = json.load(open(jsonfile))['projects']
 
@@ -75,7 +76,7 @@ fig_bar.savefig('cities_bar.png', dpi=500)
 
 # plot city distribution (cake diagram)
 idcs = np.argsort(location_frequency)
-explode = [0]*len(locations)
+explode = np.zeros(len(locations))
 explode[-1] = 0.1
 fig_pie, ax = plt.subplots()
 ax.pie(location_frequency[idcs], labels=locations[idcs], explode=explode, autopct='%1.1f%%')#, shadow={'ox': -0.02, 'edgecolor': 'none', 'shade': 0.3})

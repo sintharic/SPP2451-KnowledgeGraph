@@ -6,8 +6,8 @@ import pandas as pd
 import geopandas as gpd
 
 
-countries = gpd.read_file(gpd.datasets.get_path("naturalearth_lowres"))
-germany = countries[countries["name"] == "Germany"]
+world = gpd.read_file("https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_50m_admin_0_countries.geojson")
+germany = world[world["name"] == "Germany"]
 data = pd.read_csv('cities.dat', sep='\t')
 data['count'] *= 50
 
@@ -17,7 +17,7 @@ ax.set_ylim(46,56)
 
 germany.plot(color="lightgrey", ax=ax)
 data.plot(x="longitude", y="latitude", kind="scatter", c="count", s="count", 
-          colormap="YlOrRd", title=f"cities in SPP-2451", ax=ax)
+          colormap="YlOrRd", title=f"Cities in SPP-2451", ax=ax)
 
 for i in data.index:
   city = data.iloc[i]
