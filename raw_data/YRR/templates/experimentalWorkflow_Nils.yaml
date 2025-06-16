@@ -1,0 +1,62 @@
+resourceType: Experimental Workflow
+title:
+description:
+author: 
+  - firstName: 
+      surname: 
+      title: 
+      emailAddress: 
+      ORCID: 
+      affiliation: 
+        - organization: 
+            RORID: 
+citation: 
+DOI: 
+license: 
+version: 
+repository: 
+gitRepository: 
+documentation: 
+dateCreated: 
+datePublished: 
+fundingProject: 
+  - title: 
+      projectIdentifier: 
+discipline: 
+hasFormat: 
+  - fileFormat: 
+relatedResource: 
+  - resourceType: 
+      title: 
+      version: 
+      url: 
+conformsToSpecification: 
+method: 
+keywords: 
+  - keyword1
+  - keyword2
+Instrument: 
+  - scientificInstrument: 
+      manufacturer: 
+      instrumentModel: 
+      serialNumber: 
+      owner: 
+      technology: 
+      manual:
+aboutMaterial: 
+  - material: 
+      containsElement: 
+        - element1
+        - element2
+      materialType: 
+      materialCondition: 
+      materialProperty: 
+      manufacturer: 
+      Cat-No: 
+      LOT: 
+aboutOrganisms: 
+  - organism: 
+     organismType: 
+     organismmaintainance: 
+     organismProperty: 
+     organismExpConditions: 

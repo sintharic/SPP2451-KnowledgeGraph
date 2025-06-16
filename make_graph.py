@@ -21,17 +21,17 @@ people = [json.load(open(file,'r')) for file in glob(f'people{os.sep}*.json')]
 ontology = json.load(open(ontofile))
 keywords = json.load(open(kwfile))
 
-name = dict()
+topicID = dict()
 for parent in ontology.keys():
   for instance in ontology[parent]: 
-    name[instance] = parent.upper()+'_'+instance.upper()
+    topicID[instance] = parent.upper()+'_'+instance.upper()
 
 # sanity check
 try:
-  for topic in name.keys():
+  for topic in topicID.keys():
     _ = keywords[topic]
   for topic in keywords.keys():
-    _ = name[topic]
+    _ = topicID[topic]
 except:
   raise KeyError('name and keywords must include the same items')
 
@@ -45,9 +45,9 @@ for project in projects:
       idx = abstract.find(keyword)
       if idx >= 0:
         project['topics'].append(topic)
-        abstract = f'{abstract[:idx]}[[{name[topic]}]]{abstract[idx:]}'
+        abstract = f'{abstract[:idx]}[[{topicID[topic]}]]{abstract[idx:]}'
         orig = project['abstract_de']
-        project['abstract_de'] = f'{orig[:idx]}[[{name[topic]}]]{orig[idx:]}'
+        project['abstract_de'] = f'{orig[:idx]}[[{topicID[topic]}]]{orig[idx:]}'
   # project['abstract_de'] = abstract
 
 
@@ -56,6 +56,8 @@ os.makedirs(vault, exist_ok=True)
 os.makedirs(f'{vault}{os.sep}projects', exist_ok=True)
 os.makedirs(f'{vault}{os.sep}topics', exist_ok=True)
 os.makedirs(f'{vault}{os.sep}people', exist_ok=True)
+os.makedirs(f'{vault}{os.sep}methods', exist_ok=True)
+os.makedirs(f'{vault}{os.sep}documentation', exist_ok=True)
 
 
 # add people to vault
@@ -94,11 +96,28 @@ for project in projects:
     for idx,PI in enumerate(project['principal_investigators']):
       loc = project['locations'][idx]
       file.write(f'{PI} ({loc})\n')
+    
+    if 'methods' in project.keys():
+      file.write('\n## Methods\n')
+      for item in project['methods']:
+        file.write(f'- [[{item}]]\n')
+    else:
+      project['methods'] = []
+    
+    if 'documentation_media' in project.keys():
+      file.write('\n## Documentation\n')
+      for item in project['documentation_media']:
+        file.write(f'- [[{item}]]\n')
+    else:
+      project['documentation_media'] = []
+    
     file.write('\n## Zusammenfassung\n')
     file.write(project['abstract_de'])
 
-for topic in name.keys():
-  tid = name[topic]
+
+# add topics to vault
+for topic in topicID.keys():
+  tid = topicID[topic]
   filename = f'{vault}{os.sep}topics{os.sep}{tid}.md'
   with open(filename,'w') as file:
     # file.write('.')
@@ -108,3 +127,35 @@ for topic in name.keys():
         pid = str(project['alphabetical_number']).zfill(2)
         title = project['title_de']
         file.write(f'- [[{project_string}{pid}]]: {title}\n')
+
+
+# add methods and documentation media to vault
+methods = []
+method_used_by = dict()
+docs = []
+doc_used_by = dict()
+for project in projects:
+  method_list = project['methods']
+  methods += method_list
+  for method in method_list:
+    if method not in method_used_by.keys(): method_used_by[method] = []
+    method_used_by[method].append(str(project['alphabetical_number']).zfill(2))
+  doc_list = project['documentation_media']
+  docs += doc_list
+  for doc in doc_list:
+    if doc not in doc_used_by.keys(): doc_used_by[doc] = []
+    doc_used_by[doc].append(str(project['alphabetical_number']).zfill(2))
+
+methods = set(methods)
+for method in methods:
+  filename = f'{vault}{os.sep}methods{os.sep}{method}.md'
+  with open(filename,'w') as file:
+    for pid in method_used_by[method]:
+      file.write(f'- [[{project_string}{pid}]]\n')
+
+docs = set(docs)
+for doc in docs:
+  filename = f'{vault}{os.sep}documentation{os.sep}{doc}.md'
+  with open(filename, 'w') as file:
+    for pid in doc_used_by[doc]:
+      file.write(f'- [[{project_string}{pid}]]\n')

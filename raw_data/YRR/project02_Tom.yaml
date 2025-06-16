@@ -1,0 +1,34 @@
+description:
+  What are you investigating?
+  We investigate a capsule-based material to programme engineered living systems.
+
+description_tuples:
+  - We,  investigate, capsule-based material
+  - Material, is based on, capsules
+  - capsules, are made from, proteins
+  - The material, can programme, engineered living systems
+  - we, are, project 02
+
+performance_metrics_tuples:
+  - product, is, biocompatible
+  - stiffness, is similar to, stem cell
+  - chemical cues, is, released
+  - half-life of structure, is greater than, cell cycle
+  - structure, is, reproducible
+
+measurement_description_tuples:
+  - size
+  - mixing time
+  - flow rate
+  - droplet generation, has input, water and oil
+  - droplet generation, has output, protein droplets
+  - droplet release, has input, water in oil emulsion
+  - droplet release, has output, protein micro capsules
+  - protein capsules, influence, cell fate
+  - cell-capsule contact, alters, cell transcriptome
+
+
+
+documentation_media:
+  - elab
+  - GoodNotes digital notebook

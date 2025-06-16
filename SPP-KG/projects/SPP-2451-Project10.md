@@ -13,6 +13,13 @@ Living Plasmonics: Verteilte Umweltsensorik mit photolumineszenten Sensor-ELM du
 Kraus, Tobias (Saarbrücken)
 Weber, Wilfried (Saarbrücken)
 
+## Methods
+- [[UV vis spectroscopy]]
+
+## Documentation
+- [[ELN - RSpace]]
+- [[Notion]]
+
 ## Zusammenfassung
 Bakterielle [[FUNCTION_SENSING]]Sensoren mit genetisch [[FUNCTION_CONTROL_ADAPT]]programmierten [[FUNCTION_CONTROL_ADAPT]]Schaltkreisen erkennen Umweltschadstoffe wie Antibiotika mit hoher Selektivität und Sensitivität. Sie eignen sich für die effiziente Überwachung großer Flächen oder abgeschiedener Gebiete, weil die Bakterien keine elektrischen Energiequellen oder Wartung benötigen und ein einfacher Biofilm alle Elemente zur Detektion enthält. Diese hochattraktiven, nach[[BACTERIA_GROWTH]]wachsenden Sensoren werden heute oft deshalb nicht genutzt, weil die Auswertung bakterieller Sensor-Antworten aufwändige Infrastruktur erfordert, die im Feld nicht verfügbar ist. 
 Andererseits wurden in den letzten Jahren hybride Sensor-Materialien für die Umweltanalytik auf Basis von Nanoplasmonik und Photolumineszenz (PL) entwickelt. Ihre optischen Eigenschaften hängen von der Konzentration bestimmter Analyten ab. Sie lassen sich effizient mit Laserdioden anregen und mit einfachen CCD-Kameras auswerten. Sensor-Materialien auf Basis anorganischer Materialien und [[MATERIAL_POLYMER]]Polymere sind robust und können z.B. von Drohnen ausgelesen werden. Sie reagieren aber weniger spezifisch und empfindlich als etablierte elektro[[FUNCTION_CHEMICAL]]chemische oder chromatographische Verfahren, was ihre Einsatzbereiche beschränkt.

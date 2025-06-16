@@ -1,0 +1,40 @@
+description: 
+  - we are investigating the entrapment of plant-growth-promoting bacteria in microgels for seed coatings
+
+description_tuples:
+  - we are investigating the entraptment
+  - plant growth-promoting bacteria are entrapped in microgels
+  - microgels coat seeds
+
+
+performance_metrics_tuples:
+  - bacteria, are entrapped in, microgels
+  - microgels, attached to, seed
+  - bacteria, are, alive
+  - microgels, are, degradable
+  - nutrients, can diffuse inside, microgels
+  - bacteria, produce, metabolites 
+  - metabolites, promote, plant growth
+
+measurement_description_tuples:
+  - Microgel size measured with optical microscopy
+  - Images are analysed with Image J
+  - bacteria are stained with SYTO 9 and Propidium iodide
+  - stained bacteria are viewed via confocal microscopy 
+  - we take photos and Z-Stacks
+  - the photos are analysed with image J
+  - the confocal microscope is a Leica TCS SP8
+
+methods:
+  - confocal microscopy - Leica TCS SP8
+  - Staining - SYTO 9, propidium iodide
+
+
+tools:
+  - ImageJ
+
+documentation_media:
+  - ELab
+
+
+  

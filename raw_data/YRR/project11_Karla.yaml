@@ -1,0 +1,37 @@
+description: 
+  What are you investigating?
+  We investigate how we can control the metabolic activity and cell growth by changing the mechanical properties of the surrounding matrix using ultrasound
+  
+  
+description_tuples:
+  - We, investigate, cell growth
+  - The cell growth, is corrleated, to the metabolic activity
+  - Metabolic activity, is related, to the mechanical properties of the surronding matrix
+  - Mechanical properties of the surrounding matrix, are affected, by ultrasound
+
+performance_metrics_tuples:
+  - hydrogel, is, transparent
+  - diffusion coefficient of therapeutic, is larger than, threshold
+  - permeability of oxygen, is larger than, threshold
+  - hydrogel, is stable for, three months
+
+measurement_description_tuples:
+  - chemicals, are input of, precursor mixture
+  - crosslinking process, has input, precursor mixture
+  - crosslinking process, has output, gel
+  - rheology, has output, mechanical properties
+  - Bright field imaging, has output, growth behaviour of bacteria
+  - GPC, has output, formed products
+  - NMR, has output, chemical structure
+
+methods:
+  - GPC
+  - NMR
+  - Rheology
+  - Bright field microscopy
+
+documentation_media:
+  - Rspace ELN
+  - Markdown files (Obsidian)
+  - eLab FTW
+  

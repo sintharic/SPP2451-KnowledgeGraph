@@ -1,0 +1,59 @@
+resourceType: Experimental Workflow
+title:
+description:
+author: 
+  - firstName: 
+      surname: 
+      title: 
+      emailAddress: 
+      ORCID: 
+      affiliation: 
+        - organization: 
+            RORID: 
+citation: 
+DOI: 
+license: 
+version: 
+repository: 
+gitRepository: 
+documentation: 
+dateCreated: 
+datePublished: 
+fundingProject: 
+  - title: 
+      projectIdentifier: 
+discipline: 
+hasFormat: 
+  - fileFormat: 
+relatedResource: 
+  - resourceType: 
+      title: 
+      version: 
+      url: 
+conformsToSpecification: 
+method: 
+keywords: 
+  - keyword1
+  - keyword2
+Instrument: 
+  - scientificInstrument: 
+      manufacturer: 
+      instrumentModel: 
+      serialNumber: 
+      owner: 
+      technology: 
+      manual:
+aboutMaterial: 
+  - material: 
+      containsElement: 
+        - element1
+        - element2
+      materialType: 
+      materialCondition: 
+      materialProperty: 
+
+
+- Growth conditions
+- strain background
+- light source (e.g. when using FACS, microscope etc) -> it might be important to only give specifications of the machine, but also from the used parts (lens, laser etc)... this could be an extension of the instrument part
+- to an experimental workflow, there is usually more than one machine involved (incubator, FACS/paltereader)

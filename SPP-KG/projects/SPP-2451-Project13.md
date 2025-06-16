@@ -12,6 +12,15 @@ Selbstsynthetisierende, selbstorganisierende und auf stimuliresponsive multizell
 Bruns, Nico (Darmstadt)
 Nuber, Ulrike (Darmstadt)
 
+## Methods
+- [[Confocal LSM imaging]]
+- [[Flow Cytometry]]
+- [[NMR]]
+
+## Documentation
+- [[Paper]]
+- [[ELN - ?]]
+
 ## Zusammenfassung
 Strukturierte, multizelluläre Engineered Living Materials (ELMs) sind nicht nur für die Schaffung [[FUNCTION_RESPONSE]]responsiver und [[FUNCTION_CONTROL_ADAPT]]anpassungsfähiger ELMs, sondern auch für die Schaffung multizellulärer Gebilde wie Gewebe von wesentlicher Bedeutung. In solchen ELMs können [[MATERIAL_POLYMER]]Polymere als synthetische, maßgeschneiderte extrazelluläre Matrix fungieren, die das zellhaltige Material [[FUNCTION_MECHANICAL]]mechanisch stützt und die Zelladhäsion und verschiedene andere Funktionen initiiert und/oder aufrechterhält. Dabei bieten die Polymere zwischen den Zellen die Möglichkeit, diese ELMs auf Stimuli reagieren zu lassen. 
 Um multizelluläre, responsive, strukturierte und rekonfigurierbare Gebilde zu erreichen, schlagen wir vor, ELMs auf der Grundlage von Zellen zu entwickeln, die synthetische, stimuliresponsive Polymere auf ihrer Oberfläche selbst synthetisieren können. Die Polymere werden von der Zelloberfläche synthetisiert werden und wirken als selektives und reversibles [[MATERIAL_SCAFFOLD]]Gerüst, um die Zell-Material-Zell-Adhäsion zu vermitteln.  Sie fungierenm somit als stimuli-responsives synthetisches Analogon einer extrazellulären Matrix. Damit ermöglich unser Ansatz die [[PROCESS_SYNTHESIS]]Synthese und Abscheidung eines sehr dünnen synthetischen extrazellulären Matrixanalogs auf Einzelzellebene und führt damit eine neue Methode zur Kontrolle der zellulären Selbstorganisation bei der 3D-Gewebebildung ein. Darüber hinaus überwindet unser Ansatz auch die derzeitigen Einschränkungen, die sich während der kontrollierten Anordnung verschiedener menschlicher Zelltypen in unmittelbarer Nähe zueinander ergeben, die sich andernfalls in 3D-Kulturen spontan entmischen würden.

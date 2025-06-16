@@ -5,7 +5,7 @@ from glob import glob
 
 SRC_projects = 'Antragsübersicht bewilligte Anträge.csv'
 DST_info = f'..{os.sep}SPP.json'
-DST_projects = f'..{os.sep}projects'
+DST_projects = f'..{os.sep}converted_data{os.sep}projects'
 nheader = 2
 colheader = 1
 

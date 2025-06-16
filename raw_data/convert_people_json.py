@@ -3,7 +3,7 @@ import json
 from glob import glob
 
 SRC = f'.{os.sep}people'
-DST = f'..{os.sep}people'
+DST = f'..{os.sep}converted_data{os.sep}people'
 
 projects = os.listdir(SRC)
 os.makedirs(DST, exist_ok=True)

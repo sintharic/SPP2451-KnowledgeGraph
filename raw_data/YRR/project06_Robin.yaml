@@ -1,0 +1,39 @@
+description: 
+- fabrication of core-shell ELM fibers by EHD Jetting and CVD Polymerization that provide a permissive microenvironment regarding biocontainment for genetically modified bacteria inside them and can be used for different applications e.g. bioremediation
+
+description_tuples:
+
+  - we, are fabricating, core-shell ELM fibers
+  - core-shell ELM fibers, are fabricated, by EHD jetting and CVD polymerization
+  - core-shell ELM fibers, are providing, a permissive microenvironment
+  - permissive microenvironment, is focussing, on biocontainment
+  - permissive microenvironment, is for containment of, genetically modified bacteria
+  - core-shell ELM fibers, contains, genetically modified bacteria
+  - core-shell ELM fibers, can be used, for e.g. bioremediation
+
+
+performance_metrics_tuples:
+  - meshes, withstand, high water throughput
+  - water throughput resistance, requires, high stiffness and elasticity
+  - genetically modified switch, induces, bacteria survival and death
+  - hydrogel, is larger than, 10 µm for bacteria
+  - inducer release of core fiber, is longer than, 2 weeks 
+  - permeability of shell, is smaller than, cell size 
+  - permeability of shell, is larger than, nutrients and pollutants size
+
+measurement_description_tuples:
+  - chemicals, are input of, precursor mixture
+  - crosslinking process, has input, precursor mixture
+  - crosslinking process, has output, gel
+  - inducer, has output, protein production
+  - mesh, has property, pore size
+  - fibers, have property, diameter
+  - bacteria growth, depends on, culture conditions
+
+documentation_media:
+  - ifgselabfwt.ifg.kit.edu
+  - Rspace ELN
+  
+
+
+  

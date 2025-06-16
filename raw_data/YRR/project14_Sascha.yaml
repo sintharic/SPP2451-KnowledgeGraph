@@ -1,0 +1,46 @@
+description: 
+  - Interaction of smart opaline films with external stimuli provided by bacteria.
+
+
+description_tuples:
+  - I, am investigating, an interaction.
+  - The interaction, is from, smart opaline films.
+  - The smart opaline films, interact with, external stimuli.
+  - External stimuli, are provided by, bacteria.
+
+
+performance_metrics_tuples:
+  - material, is, particle based
+  - material, has, core-shell architecture
+  - material, has, inherent structural coloring
+  - material, can respond to, external stimuli
+  - external stimuli, must be provided by, bacteria
+  - external stimuli, can be, pH change
+  - external stimuli, can be, redox potential change
+
+  
+measurement_description_tuples:
+  - Particle size, measuring by, Dynamic Light Scattering
+  - Particle size, measuring by, TEM-Imaging
+  - Surface morphology, measuring by, SEM-Imaging
+  - Glass temperature, measuring by, Dynamic differential calorimetry 
+  - Thermal degradation, measuring by, Thermogravimetric Analysis
+  - UV/VIS - Spectra, recording of, opal film samples
+  - pH, measuring of, growth medium
+  - optical density, measuring of, growth medium
+
+
+methods:
+  - Dynamic Light Scattering
+  - TEM microscopy
+  - SEM microscopy
+  - DSC
+  - thermogravimetric analysis
+  - UV Vis spectroscopy
+  - pH measurement
+  - optical density measurement
+
+
+documentation_media:
+  - Paper Lab Notebook 
+  - Excel Sheets

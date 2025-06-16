@@ -13,6 +13,12 @@ Adaptive Lebende Samenbeschichtungen
 Pich, Andrij (Aachen)
 Schwaneberg, Ulrich (Aachen)
 
+## Methods
+- [[Confocal LSM imaging]]
+
+## Documentation
+- [[ELN - eLabFTW]]
+
 ## Zusammenfassung
 Die Saatgutbeschichtung ist ein Verfahren, welches in der Landwirtschaft bei über 50 Pflanzenarten angewandt wird und zur Verbesserung der Lagerung, Lebensfähigkeit und Keimung von Saatgut dient, was zu einem beschleunigten Pflanzen[[BACTERIA_GROWTH]]wachstum und höheren Erträgen führt. Bei herkömmlichen Saatgutbeschichtungen werden nicht abbaubare synthetische [[MATERIAL_POLYMER]]Polymere wie Polyether oder Polyurethane verwendet. Diese bieten nicht nur ein schlechtes Verhältnis zwischen [[BACTERIA_DRUGPRODUCTION]]Wirkstoff und Polymer, sondern tragen auch zur Verschmutzung durch Mikroplastik bei. Zukünftige EU-Verordnungen werden solche Materialien verbieten.
 Um diese Einschränkungen zu überwinden, schlagen wir die Entwicklung einer neuen Technologie vor, welche für die langfristige Konservierung und verbesserte Keimung von Saatgut in verschiedenen Klimazonen erforderlich ist. Wir schlagen eine [[FUNCTION_CONTROL_ADAPT]]adaptive Technologie zur Beschichtung von lebendem Saatgut vor, bei der ein Zusammenspiel zwischen biobasierten [[MATERIAL_HYDROGEL]]Hydrogelen und Nutzbakterien genutzt wird.

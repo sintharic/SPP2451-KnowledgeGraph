@@ -1,0 +1,36 @@
+description: 
+  - We are investigating the interactions between microgels and bacteria to develop a probiogel for skin and wound infection therapy.
+
+
+description_tuples:
+  - we investigate interactions 
+  - the interactions are between microgels and bacteria
+  - bacteria and microgels are used in a probiogel 
+  - probiogel is to treat skin and wound infections
+
+performance_metrics_tuples:
+  - microgel, is,  adhesive for bacteria
+  - microgel, is, poros for diffusion
+  - probiotic bacteria, produces, antimicrobial peptides
+  - probiotic bacteria, is, lactobacilli 
+  - lactobacilli, produces, bacteriocins as antimicrobial peptides
+  - patch, is, encaplsulating bacteria and microgels
+
+measurement_description_tuples:
+  - microfluidics, has output, microgels
+  - photometric assay, has output, inhibition activity
+  - antimicrobial assay, has output, antimicrobial activity
+  - RT-qPCR, has output, gene expression level
+  - bright field and confocal imaging, has output, images
+
+methods:
+  - RT-qPCR
+  - photometric assay
+  - antimicrobial assay
+  - bright field microscopy
+  - confocal microscopy
+
+documentation_media:
+  - ELab ftw
+  - notebook 
+

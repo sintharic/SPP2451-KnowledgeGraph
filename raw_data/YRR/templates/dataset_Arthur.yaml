@@ -1,0 +1,29 @@
+description: 
+  What are you investigating?
+We are investigating behaviour of functionalized B. subtilis endospores entrapped in a 3D-bioprinted scaffold.
+
+
+description_tuples:
+  - We, are investigating, behaviour of functionalized B. subtilis endospores
+	behaviour of functionalized B. subtilis endospores, entrapped in, 3D-bioprinted scaffolds
+
+performance_metrics_tuples:
+  - Spores, are stable, scaffold
+  - Immobilized enzymes, are stable, environment
+  - scaffold, contains, micropores 
+  - micropores, ensure, stability of spores
+  - scaffold, has, low autofluorescence in the GFP and RFP spectrum
+
+measurement_description_tuples:
+  - spores ink mixture, has output, Bioink
+  - 3D Bioprinting, has input, Bioink
+  - 3D Bioprinting, has output, ELM
+  - Crosslinking process, has input, SrCl2 and ELM
+  - Crosslinking process, has output, stable Scaffold
+
+documentation_media:
+  - ElabFTW
+  - Labbook handwriting
+
+
+  

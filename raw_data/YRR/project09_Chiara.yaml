@@ -1,0 +1,26 @@
+description: 
+  - I am working on the development of ELMs, composed of living bacteria electrically connected via click-chemistry to a conductive hydrogel, which will be used as biosensors and as catalysts.
+
+description_tuples:
+  - I, am working on, the development of ELM
+  - The ELMs, are composed of, living bacteria
+  - the living bacteria, is electrically connected via click-chemistry, to a conductive hydrogel
+  - The ELMs, will be used as, bionsensors and catalysts
+
+performance_metrics_tuples:
+  - hydrogel, is, conductive
+  - bacteria, has, membrane-bound conductive protein
+  - protein, has, non-canonical amino acid
+  - bacteria, is clicked to, hydrogel
+  
+methods:
+  - heterologous expression
+  - click-chemistry
+  - genetic code expansion
+
+documentation_media:
+  - Digital notebook (Elab)
+  - physical notebook
+
+
+  

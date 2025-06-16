@@ -1,0 +1,45 @@
+resourceType: Dataset
+title:
+description:
+author: 
+  - firstName: 
+      surname: 
+      title: 
+      emailAddress: 
+      ORCID: 
+      affiliation: 
+        - organization: 
+            RORID: 
+citation: 
+DOI: 
+license: 
+version: 
+repository: 
+gitRepository: 
+documentation: 
+dateCreated: 
+datePublished: 
+fundingProject: 
+  - title: 
+      projectIdentifier: 
+discipline: 
+hasFormat: 
+  - fileFormat: 
+relatedResource: 
+  - resourceType: 
+      title: 
+      version: 
+      url: 
+conformsToSpecification: 
+method: 
+keywords: 
+  - keyword1
+  - keyword2
+aboutMaterial: 
+- material: 
+    containsElement: 
+      - element1
+      - element2
+    materialType: 
+    materialCondition: 
+    materialProperty: 

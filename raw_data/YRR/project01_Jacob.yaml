@@ -1,0 +1,32 @@
+description: 
+  - We are investigating sensors of mechanical stress in bacteria for the use in a hydrogel ELM.
+  
+  
+description_tuples:
+  - You, are investigating, something
+  - ...
+  - We, are investigating, stress sensors
+  - Stress sensors, are made from, bacteria
+  - Bacteria, live in, hydrogel
+
+
+performance_metrics_tuples:
+  - Bacteria, senses, compressive stress
+  - Bacteria, senses, stretching stress
+  - Bacteria, lives in, hydrogel
+  - Bacteria, secrete, enzymes
+  - Enzymes, makes, the hydrogel more stiff
+  - Enzymes, makes, the hydrogel less stiff
+  - Hydrogels, transfer stress, to bacteria
+
+measurement_description_tuples:
+  - Fluorescence, measurement, fluorescent proteins
+  - Fluorescent proteins, correlate to, promoter activity
+  - Promoter activity, correlate to, physical or chemical stress
+
+documentation_media:
+  - eLabFTW 
+  - Benchling
+
+
+  

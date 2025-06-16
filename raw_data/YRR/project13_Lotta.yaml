@@ -1,0 +1,27 @@
+description: 
+  - I am investigating the enzyme mediated controled radical polymerization on cell surfaces. 
+
+description_tuples:
+  - I, am investgating, enzyme mediated controled radical polymerization
+  - Enzyme mediated controled radical polymerization, takes place, on cell surfaces
+
+
+performance_metrics_tuples:
+  - HRP, similar, acitivity
+  - polymerization, condition, low PDI
+  - polymer, is, stimuli-responsive
+
+measurement_description_tuples:
+  - confocal microscopy, has output, images
+  - NMR spectroscopy, has input, reaction product
+
+methods:
+  - confocal microscopy
+  - NMR
+
+documentation_media:
+  - ELN
+  - physical notebook
+
+
+  

@@ -1,0 +1,28 @@
+description: 
+  What are you investigating?   
+  Development of biocontainment strategies of probiotic bacteria in MAPs
+  
+description_tuples:
+  - I,  am investigating, different strategies 
+  - Biocontainment, of, probiotic bacteria 
+  - Probiotic bacteria, are in, MAPs
+  - MAPs contain probiotic bacteria  
+
+performance_metrics_tuples:
+  - the material, supports, growth 
+  - probiotics, only survive, within the scaffold 
+  - 
+
+measurement_description_tuples:
+  - survival, tests 
+  - microscopy
+
+methods:
+  - bright field microscopy
+
+documentation_media:
+  - Rspace ELN
+  - Markdown files (Obsidian)
+
+
+  

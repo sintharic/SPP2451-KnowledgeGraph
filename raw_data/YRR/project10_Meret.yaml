@@ -1,0 +1,30 @@
+description: 
+  - Distributed environmental sensing with photoluminescent sensor ELM through enzymatic coupling of bacterial sensing with nanoplasmonics
+
+
+description_tuples:
+  - Distributed environmental sensing, is done by, photoluminescent sensor ELM.
+  - Photoluminescent sensor ELM, works with, enzymatic coupling.
+  - Enzymatic coupling, is a property of, bacterial sensing.
+  - Bactrial sensing, results in, nanoplasmonics. 
+
+performance_metrics_tuples:
+  - AuNPs, are, stable
+  - plasmonic signal, is larger than, threshold
+  - bacteria, are living in, material
+  - bacterial enzyme sythesis, is induced by, a trigger
+
+measurement_description_tuples:
+  - UV-Vis spectroscopy, has input, bacteria solution
+  - UV-Vis spectroscopy, has input, AuNPs solution
+  - UV-Vis spectroscopy, has output, absorbance in dependens on waveleght
+
+methods:
+  - UV-Vis spectroscopy
+
+documentation_media:
+  - Rspace ELN
+  - Notion
+
+
+  

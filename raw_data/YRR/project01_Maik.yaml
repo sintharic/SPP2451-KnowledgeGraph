@@ -1,0 +1,33 @@
+description: 
+  - We are trying to build a synthetic sensor for mechanical stress in bacteria, so that we can modulate a hydrogel in which they are embedded by the secretion of proteins upon stress induction.
+  - I am investigating synthetic sensors.
+  - The synthetic sensors should sense mechanical stress.
+  - The synthetic sensors are designed for bacteria.
+  - he bacteria are embedded in a hydrogel.
+  - he hydrogel can be modulated by proteins.
+  - he proteins are secreted by the bacteria.
+  - he secretion happens upon mechanical stress.
+
+description_tuples:
+  - You, are investigating, something
+  - ...
+
+performance_metrics_tuples:
+- stiffness
+- nutrients providing
+- compressable
+- digestable
+- non-toxic for the bacteria
+
+methods:
+- microscopy (chemical or mechanical induction)
+- plate reader (chemical induction)
+- flow cytometry (chemical induction)
+
+documentation_media:
+- eLabftw
+- physical notebook
+- benchling
+
+
+  

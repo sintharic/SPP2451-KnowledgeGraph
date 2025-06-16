@@ -1,0 +1,25 @@
+description: 
+  What are you investigating?
+
+description_tuples:
+  - You, are investigating, something
+  - ...
+
+performance_metrics_tuples:
+  - contact lens, is, transparent
+  - diffusion coefficient of therapeutic, is larger than, threshold
+  - permeability of oxygen, is larger than, threshold
+  - ...
+
+measurement_description_tuples:
+  - chemicals, are input of, precursor mixture
+  - crosslinking process, has input, precursor mixture
+  - crosslinking process, has output, gel
+  - ...
+
+documentation_media:
+  - Rspace ELN
+  - Markdown files (Obsidian)
+
+
+  

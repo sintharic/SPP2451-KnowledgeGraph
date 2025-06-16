@@ -1,0 +1,41 @@
+description: 
+  - We are investigating the stimuli-responsiveness of hydrogels and the catalytic activity of mixed species microbial consortia within porous materials in a reactor and combining this in a microbial leaf with a self regulated catalytic activity.
+
+
+description_tuples:
+  - We, are investigating, the stimuli-responsiveness of hydrogels
+  - We, are investigating, the catalytic activity of mixed species microbial consortia
+  - microbial consortia, is cultivated, within porous materials 
+  - Microbial leaf, combines, hydrogels and catalytically active microbial consortia  
+  - ...
+
+performance_metrics_tuples:
+  - hydrogel, is, stimuli-responsive
+  - collapsed hydrogel, is, permeable to educt
+  - swollen hydrogel, prevents, educt influx
+  - mixed species biofilm, is, catalytically active 
+  - ...
+
+measurement_description_tuples:
+  - cLSM, measures, hydrogel layer thickness
+  - AFM, measures, hydrogel stiffness
+  - SEM, measures, mixed species microbial fixed and sectional images
+  - HPLC, measures, product yield
+  - Flow cytometry, measures, cell counts
+
+methods:
+  - cLSM
+  - AFM stiffness measurement
+  - SEM microscopy
+  - HPLC
+  - Flow cytometry
+
+documentation_media:
+  - eLAB-FTW
+  - physical labbook
+  - basecamp
+  - power point
+  - Markdown files (Obsidian)
+
+
+  

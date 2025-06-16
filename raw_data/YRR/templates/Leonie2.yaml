@@ -1,0 +1,24 @@
+description: 
+  What are you investigating?
+I am investigating the interaction of mechano-modifying bacteria with the surrounding hydrogel and the 3D-bioprinting of this combination into complex structures.
+
+description_tuples:
+  - I, am investigating, the interaction.
+  - The interaction, is existing, between mechano-modifying bacteria with the surrounding hydrogel.
+  - The mechano-modifying bacteria, is interacting, with the surrounding hydrogel. 
+  - The 3D-bioprinting, is applies, to this combination. 
+  - This combination, is printed into, complex structures.
+
+performance_metrics_tuples:
+  - hydrogel, is, printable
+  - bacteria, is remaining, in crosslinked hydrogel
+  - hydrogel, is, transducing the mechanical stress to the bacteria
+
+measurement_description_tuples:
+  - TNBSA Assay
+  - Rheology
+  - crosslinking process, has output, gel
+
+documentation_media:
+  - Notion Workspace
+  - Elab
