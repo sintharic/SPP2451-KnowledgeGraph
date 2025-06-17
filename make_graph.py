@@ -67,6 +67,22 @@ if 'people' in add_info:
   for person in people:
     filename = f"{vault}{os.sep}people{os.sep}{person['name']}.md"
     with open(filename, 'w') as file:
+
+
+      roles = person['role']
+      roles = roles.replace(" ", "_")
+
+      titles = person['title']
+      titles = titles.replace(" ", "_")
+      titles = titles.replace(".", "")
+      # First add tags to the obsidian file to easier classify later
+      file.write('---\n')
+      file.write('tags: \n')
+      file.write('- Person\n')
+      file.write(f'- {roles}\n')
+      file.write(f'- {titles}\n')
+      file.write('---\n')
+      
       file.write('## Full Name\n')
       file.write(f"{person['title']} {person['name']}\n")
       file.write('\n## Affiliations\n')
@@ -90,6 +106,12 @@ for project in projects:
   pid = str(project['alphabetical_number']).zfill(2)
   filename = f'{vault}{os.sep}projects{os.sep}{project_string}{pid}.md'
   with open(filename,'w') as file:
+    # First add tags to the obsidian file to easier classify later
+    file.write('---\n')
+    file.write('tags: \n')
+    file.write('- Project\n')
+    file.write('---\n')
+       
     file.write('## Title\n')
     file.write(project['title_de'])
     file.write('\n\n## Researchers\n')
@@ -124,6 +146,12 @@ for topic in topicID.keys():
   filename = f'{vault}{os.sep}topics{os.sep}{tid}.md'
   with open(filename,'w') as file:
     # file.write('.')
+    # First add tags to the obsidian file to easier classify later
+    file.write('---\n')
+    file.write('tags: \n')
+    file.write('- Topic\n')
+    file.write('---\n')
+      
     for project in projects:
       if topic in project['topics']:
         # pid = project['lfd-nr']
@@ -157,12 +185,40 @@ if 'methods' in add_info:
   for method in methods:
     filename = f'{vault}{os.sep}methods{os.sep}{method}.md'
     with open(filename,'w') as file:
-      for pid in method_used_by[method]:
-        file.write(f'- [[{project_string}{pid}]]\n')
+        # First add tags to the obsidian file to easier classify later
+        file.write('---\n')
+        file.write('tags: \n')
+        file.write('- Method\n')
+        file.write('---\n')
+        for pid in method_used_by[method]:
+            file.write(f'- [[{project_string}{pid}]]\n')
 
 if 'documentation' in add_info:
   for doc in docs:
     filename = f'{vault}{os.sep}documentation{os.sep}{doc}.md'
     with open(filename, 'w') as file:
-      for pid in doc_used_by[doc]:
-        file.write(f'- [[{project_string}{pid}]]\n')
+        # First add tags to the obsidian file to easier classify later
+        file.write('---\n')
+        file.write('tags: \n')
+        file.write('- Documentation\n')
+        file.write('---\n')
+        for pid in doc_used_by[doc]:
+            file.write(f'- [[{project_string}{pid}]]\n')
+
+
+filename = f'{vault}{os.sep}homepage.md'
+with open(filename, 'w') as file:
+    
+    file.write('# Pages with the most links to them \n ')
+    file.write('```dataview \n')
+    file.write('TABLE length(file.inlinks) AS "Links in" \n')
+    file.write('SORT length(file.inlinks) DESC \n')
+    file.write('LIMIT 10\n')
+    file.write('```\n')
+    file.write('\n')
+    file.write('# Pages with the most links out\n')
+    file.write('```dataview\n')
+    file.write('TABLE length(file.outlinks) AS "Links out"\n')
+    file.write('SORT length(file.outlinks) DESC \n')
+    file.write('LIMIT 10\n')
+    file.write('```\n ')
