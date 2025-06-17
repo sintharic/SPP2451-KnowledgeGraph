@@ -67,6 +67,16 @@ if 'people' in add_info:
   for person in people:
     filename = f"{vault}{os.sep}people{os.sep}{person['name']}.md"
     with open(filename, 'w') as file:
+
+      # First add tags to the obsidian file to easier classify later
+      file.write('---\n')
+      file.write('tags: \n')
+      for role in person['role']:
+        file.write(f'- {role}\n')
+      for title in person['title']:
+        file.write(f'- {title}\n')
+      file.write('---')
+      
       file.write('## Full Name\n')
       file.write(f"{person['title']} {person['name']}\n")
       file.write('\n## Affiliations\n')
@@ -90,6 +100,12 @@ for project in projects:
   pid = str(project['alphabetical_number']).zfill(2)
   filename = f'{vault}{os.sep}projects{os.sep}{project_string}{pid}.md'
   with open(filename,'w') as file:
+    # First add tags to the obsidian file to easier classify later
+    file.write('---\n')
+    file.write('tags: \n')
+    file.write('- Project\n')
+    file.write('---')
+       
     file.write('## Title\n')
     file.write(project['title_de'])
     file.write('\n\n## Researchers\n')
