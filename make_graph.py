@@ -74,6 +74,7 @@ if 'people' in add_info:
 
       titles = person['title']
       titles = titles.replace(" ", "_")
+      titles = titles.replace(".", "")
       # First add tags to the obsidian file to easier classify later
       file.write('---\n')
       file.write('tags: \n')
