@@ -1,7 +1,7 @@
 ---
 tags: 
 - Person
-- Principle_Investigator
+- Principal_Investigator
 - Dr
 ---
 ## Full Name

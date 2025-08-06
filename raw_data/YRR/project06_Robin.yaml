@@ -29,11 +29,24 @@ measurement_description_tuples:
   - mesh, has property, pore size
   - fibers, have property, diameter
   - bacteria growth, depends on, culture conditions
+  - Plasmid assembly via HiFi DNA Assembly, following PCR amplification of inserts and backbone using Q5 polymerase.
+  - Verification of plasmid constructs by agarose gel electrophoresis and visualization with Gel Doc imaging system.
+  - Agar plate imaging and automated colony counting using Fiji (ImageJ) software.
+  - Bacterial transformations and growth under selective conditions.
+  - Induction of gene expression via chemical inducers (e.g., IPTG,arabinose, aTc, salicylic acid), followed by measurement of fluorescence intensity and optical density (OD600) using a microplate reader.
+  - Export and processing of microplate reader data from Excel files.
+  - Flow cytometry for population-level analysis of fluorescent protein expression and viability assessment in bacterial samples.
+
+methods:
+  - HiFi DNA Assembly
+  - Q5 Polymerase
+  - Agarose Gel Electrophoresis
+  - Gel Doc Imaging
+  - ImageJ
+  - Microplate Reader
+  - Flow Cytometry
 
 documentation_media:
   - ifgselabfwt.ifg.kit.edu
   - Rspace ELN
-  
-
-
   

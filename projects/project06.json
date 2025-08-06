@@ -21,5 +21,13 @@
     "ELN - eLabFTW",
     "ELN - RSpace"
   ],
-  "methods": []
+  "methods": [
+    "HiFi DNA Assembly",
+    "Q5 Polymerase",
+    "Agarose Gel Electrophoresis",
+    "Gel Doc Imaging",
+    "ImageJ",
+    "Microplate Reader",
+    "Flow Cytometry"
+  ]
 }
