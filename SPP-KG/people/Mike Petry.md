@@ -1,3 +1,9 @@
+---
+tags: 
+- Person
+- Associated_PhD_Student
+- MSc
+---
 ## Full Name
 M.Sc. Mike Petry
 

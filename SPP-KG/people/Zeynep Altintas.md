@@ -1,3 +1,9 @@
+---
+tags: 
+- Person
+- Prinicple_Investigator
+- Prof_Dr
+---
 ## Full Name
 Prof. Dr. Zeynep Altintas
 

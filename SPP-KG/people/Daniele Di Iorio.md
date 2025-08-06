@@ -1,3 +1,9 @@
+---
+tags: 
+- Person
+- Principle_Investigator
+- Dr
+---
 ## Full Name
 Dr. Daniele Di Iorio
 

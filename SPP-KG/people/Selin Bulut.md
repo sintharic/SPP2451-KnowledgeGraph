@@ -1,3 +1,9 @@
+---
+tags: 
+- Person
+- PhD_Student
+- MSc
+---
 ## Full Name
 M.Sc. Selin Bulut
 

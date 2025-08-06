@@ -1,3 +1,9 @@
+---
+tags: 
+- Person
+- Co-Investigator
+- Prof_Dr
+---
 ## Full Name
 Prof. Dr. med. Rudolf Lütticken
 

@@ -1,3 +1,7 @@
+---
+tags: 
+- Topic
+---
 - [[SPP-2451-Project02]]: Adaptive kapselbasierte Materialien zur Programmierung lebender technischer Systeme
 - [[SPP-2451-Project09]]: Lebende Elektro-Biokatalysatoren für Sensorik und Reinigung
 - [[SPP-2451-Project05]]: Kombination stimuli-responsiver Hydrogele und Scaffold-unterstützter mikrobieller Biofilme für die selbstkontrollierte katalytische Aktivität eines mikrobiellen Blatts

@@ -1,3 +1,9 @@
+---
+tags: 
+- Person
+- Co_–_Investigator
+- Prof_Dr
+---
 ## Full Name
 Prof. Dr. Jörg Lahann
 

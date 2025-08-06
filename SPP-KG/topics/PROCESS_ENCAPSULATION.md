@@ -1,3 +1,7 @@
+---
+tags: 
+- Topic
+---
 - [[SPP-2451-Project03]]: Adaptive Biotechnologisch-modifizierte Bakterielle Koazervate
 - [[SPP-2451-Project02]]: Adaptive kapselbasierte Materialien zur Programmierung lebender technischer Systeme
 - [[SPP-2451-Project13]]: Selbstsynthetisierende, selbstorganisierende und auf stimuliresponsive multizelluläre Engineered Living Materials auf der Grundlage enzymatischer Polymerisationen auf Zelloberflächen (PolyCell-ELMs)

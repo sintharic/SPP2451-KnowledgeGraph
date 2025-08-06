@@ -1,3 +1,9 @@
+---
+tags: 
+- Person
+- Co-Investigator
+- Dr
+---
 ## Full Name
 Dr. Anja Lohde
 

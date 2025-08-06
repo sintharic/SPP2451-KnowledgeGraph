@@ -9,7 +9,7 @@ description_tuples:
 
 performance_metrics_tuples:
   - bacteria, are entrapped in, microgels
-  - microgels, attached to, seed
+  - microgels, are attached to, seed
   - bacteria, are, alive
   - microgels, are, degradable
   - nutrients, can diffuse inside, microgels

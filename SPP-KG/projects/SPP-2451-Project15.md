@@ -1,3 +1,7 @@
+---
+tags: 
+- Project
+---
 ## Title
 SporoPrinting – 3D-Matrizen zur Immobilisierung und Steuerung funktionalisierter SporoBeads von B. subtilis als strukturierte Protein-präsentierende ELM-Plattform mit adaptiven Funktionen
 

@@ -1,3 +1,7 @@
+---
+tags: 
+- Documentation
+---
 - [[SPP-2451-Project02]]
 - [[SPP-2451-Project09]]
 - [[SPP-2451-Project05]]

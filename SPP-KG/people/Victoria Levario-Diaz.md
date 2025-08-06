@@ -1,3 +1,9 @@
+---
+tags: 
+- Person
+- PostDoc
+- Dr
+---
 ## Full Name
 Dr. Victoria Levario-Diaz
 

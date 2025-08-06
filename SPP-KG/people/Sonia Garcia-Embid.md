@@ -1,3 +1,9 @@
+---
+tags: 
+- Person
+- Associated_PostDoc
+- Dr
+---
 ## Full Name
 Dr. Sonia Garcia-Embid
 

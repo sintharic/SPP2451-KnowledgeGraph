@@ -1,3 +1,7 @@
+---
+tags: 
+- Topic
+---
 - [[SPP-2451-Project15]]: SporoPrinting – 3D-Matrizen zur Immobilisierung und Steuerung funktionalisierter SporoBeads von B. subtilis als strukturierte Protein-präsentierende ELM-Plattform mit adaptiven Funktionen
 - [[SPP-2451-Project03]]: Adaptive Biotechnologisch-modifizierte Bakterielle Koazervate
 - [[SPP-2451-Project02]]: Adaptive kapselbasierte Materialien zur Programmierung lebender technischer Systeme

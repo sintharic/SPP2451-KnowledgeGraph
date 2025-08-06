@@ -1,3 +1,7 @@
+---
+tags: 
+- Topic
+---
 - [[SPP-2451-Project02]]: Adaptive kapselbasierte Materialien zur Programmierung lebender technischer Systeme
 - [[SPP-2451-Project14]]: Smarte Stimuli-responsive opaleszente Bakterienfilme (OPAL-Bac)
 - [[SPP-2451-Project09]]: Lebende Elektro-Biokatalysatoren für Sensorik und Reinigung

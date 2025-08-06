@@ -1,3 +1,7 @@
+---
+tags: 
+- Topic
+---
 - [[SPP-2451-Project14]]: Smarte Stimuli-responsive opaleszente Bakterienfilme (OPAL-Bac)
 - [[SPP-2451-Project13]]: Selbstsynthetisierende, selbstorganisierende und auf stimuliresponsive multizelluläre Engineered Living Materials auf der Grundlage enzymatischer Polymerisationen auf Zelloberflächen (PolyCell-ELMs)
 - [[SPP-2451-Project07]]: Konstruktion lebender Aktoren aus fädigen Cyanobakterien
